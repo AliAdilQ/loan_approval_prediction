@@ -1,0 +1,220 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero-section">
+  <div class="container">
+    <div class="row align-items-center g-5">
+      <div class="col-lg-6 hero-copy">
+        <div class="eyebrow">
+<span class="live-dot">
+</span> A SMARTER START TO YOUR LOAN JOURNEY</div>
+        <h1>Loan Approval<br>Prediction <span class="serif-accent">System.</span>
+</h1>
+        <p class="hero-lead">A clearer picture of what comes next.</p>
+        <p class="hero-description">Machine Learning powered loan eligibility prediction built with Python and Django.</p>
+        <div class="hero-actions">
+<a class="btn btn-dark-green btn-lg" href="{% url 'predictor:predict' %}">Check Loan Eligibility <i class="bi bi-arrow-up-right" aria-hidden="true">
+</i>
+</a>
+<a class="text-link" href="{% url 'predictor:about' %}">View Project Details <i class="bi bi-arrow-right" aria-hidden="true">
+</i>
+</a>
+</div>
+        <div class="hero-footnote">
+<i class="bi bi-shield-check" aria-hidden="true">
+</i> No sign-up needed <span>·</span> Results in seconds <span>·</span> Educational demo</div>
+      </div>
+      <div class="col-lg-6">
+        <div class="insight-scene">
+          <div class="scene-grid" aria-hidden="true">
+</div>
+          <div class="orbit orbit-one" aria-hidden="true">
+</div>
+<div class="orbit orbit-two" aria-hidden="true">
+</div>
+          <div class="floating-label">
+<span class="mini-icon">
+<i class="bi bi-stars" aria-hidden="true">
+</i>
+</span> Data, with direction.</div>
+          <div class="insight-card">
+            <div class="insight-card-top">
+<span class="card-overline">APPLICATION INSIGHTS</span>
+<span class="pill">Live overview</span>
+</div>
+            <div class="insight-heading">Every application.<br>A little more clarity.</div>
+            <div class="insight-chart">
+<div class="donut" style="--rate:{{ stats.approval_rate }}%" role="img" aria-label="{{ stats.approval_rate }} percent of saved predictions approved">
+<div>
+<strong>{{ stats.approval_rate }}<small>%</small>
+</strong>
+<span>approval rate</span>
+</div>
+</div>
+<div class="chart-legend">
+<div>
+<span class="legend-dot approved-dot">
+</span>
+<span>Likely approved</span>
+<strong>{{ stats.approved }}</strong>
+</div>
+<div>
+<span class="legend-dot rejected-dot">
+</span>
+<span>Likely rejected</span>
+<strong>{{ stats.rejected }}</strong>
+</div>
+<div class="legend-total">
+<span>Applications saved</span>
+<strong>{{ stats.total }}</strong>
+</div>
+</div>
+</div>
+            <div class="insight-footer">
+<i class="bi bi-database-check" aria-hidden="true">
+</i> Calculated from saved demo applications <i class="bi bi-arrow-up-right" aria-hidden="true">
+</i>
+</div>
+          </div>
+          <div class="model-label">
+<span class="model-icon">
+<i class="bi bi-cpu" aria-hidden="true">
+</i>
+</span>
+<div>
+<strong>Real model. Real inference.</strong>
+<small>Powered by scikit-learn</small>
+</div>
+<i class="bi bi-check-circle-fill" aria-hidden="true">
+</i>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="technology-strip">
+<div class="container">
+<span>BUILT ON A SOLID FOUNDATION</span>
+<div class="technology-list">
+<b>
+<i class="bi bi-code-slash" aria-hidden="true">
+</i> Python</b>
+<b>Django<span class="tech-dot">.</span>
+</b>
+<b>scikit-learn</b>
+<b>
+<i class="bi bi-bootstrap" aria-hidden="true">
+</i> Bootstrap</b>
+<b>
+<i class="bi bi-database" aria-hidden="true">
+</i> SQLite</b>
+</div>
+</div>
+</section>
+<section class="section-space">
+<div class="container">
+<div class="section-heading">
+<div>
+<div class="eyebrow">THOUGHTFULLY BUILT</div>
+<h2>Less guesswork.<br>More understanding.</h2>
+</div>
+<p>From your first input to your final result,<br class="d-none d-md-block"> every step has a purpose.</p>
+</div>
+<div class="row g-4 feature-grid">
+  <div class="col-md-6 col-xl-3">
+<article class="feature-card">
+<span class="feature-icon">
+<i class="bi bi-cpu" aria-hidden="true">
+</i>
+</span>
+<h3>Machine Learning Powered</h3>
+<p>A trained classifier analyses your profile using a reproducible data pipeline.</p>
+<span class="feature-number">01 / INTELLIGENCE</span>
+</article>
+</div>
+  <div class="col-md-6 col-xl-3">
+<article class="feature-card">
+<span class="feature-icon">
+<i class="bi bi-lightning-charge" aria-hidden="true">
+</i>
+</span>
+<h3>Instant Prediction</h3>
+<p>Get an eligibility estimate and model probability in just a few seconds.</p>
+<span class="feature-number">02 / CLARITY</span>
+</article>
+</div>
+  <div class="col-md-6 col-xl-3">
+<article class="feature-card">
+<span class="feature-icon">
+<i class="bi bi-shield-check" aria-hidden="true">
+</i>
+</span>
+<h3>Secure Data Processing</h3>
+<p>Validated inputs, CSRF protection, and results accessible in your own session.</p>
+<span class="feature-number">03 / CARE</span>
+</article>
+</div>
+  <div class="col-md-6 col-xl-3">
+<article class="feature-card">
+<span class="feature-icon">
+<i class="bi bi-layers" aria-hidden="true">
+</i>
+</span>
+<h3>Application Tracking</h3>
+<p>Each prediction is saved with its model, probability, and application details.</p>
+<span class="feature-number">04 / CONTINUITY</span>
+</article>
+</div>
+</div>
+</div>
+</section>
+<section class="how-section section-space">
+<div class="container">
+<div class="section-heading">
+<div>
+<div class="eyebrow">HOW IT WORKS</div>
+<h2>Three steps to a clearer picture.</h2>
+</div>
+<a class="text-link" href="{% url 'predictor:predict' %}">Let’s get started <i class="bi bi-arrow-up-right" aria-hidden="true">
+</i>
+</a>
+</div>
+<div class="row g-4 steps-grid">
+<div class="col-md-4">
+<article>
+<span class="step-number">01</span>
+<h3>Tell us about your profile</h3>
+<p>Enter your applicant details, monthly income, and the loan you have in mind.</p>
+</article>
+</div>
+<div class="col-md-4">
+<article>
+<span class="step-number">02</span>
+<h3>Let the model do the analysis</h3>
+<p>Your inputs pass through the same preprocessing used to train our classifier.</p>
+</article>
+</div>
+<div class="col-md-4">
+<article>
+<span class="step-number">03</span>
+<h3>Explore your prediction</h3>
+<p>See your estimated outcome and probability, with a clear application summary.</p>
+</article>
+</div>
+</div>
+</div>
+</section>
+<section class="container cta-section">
+<div>
+<div class="eyebrow">YOUR NEXT STEP, MADE SIMPLE</div>
+<h2>Curious where you stand?</h2>
+<p>Take a moment to explore your loan eligibility.</p>
+</div>
+<a href="{% url 'predictor:predict' %}" class="btn btn-lime btn-lg">Make a prediction <i class="bi bi-arrow-up-right" aria-hidden="true">
+</i>
+</a>
+</section>
+<div class="container demo-note">
+<i class="bi bi-info-circle" aria-hidden="true">
+</i> An educational model trained on synthetic data. Predictions are estimates, not lending decisions.</div>
+{% endblock %}

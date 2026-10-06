@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block title %}{{ error_code }} · LoanPredict AI{% endblock %}
+{% block content %}<div class="container error-page">
+<div class="eyebrow">{{ error_code }}</div>
+<h1>{{ error_title }}</h1>
+<p>{{ error_message }}</p>
+<a class="btn btn-dark-green" href="{% url 'predictor:home' %}">Back to Home <i class="bi bi-arrow-right" aria-hidden="true">
+</i>
+</a>
+</div>{% endblock %}

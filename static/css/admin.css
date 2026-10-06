@@ -1,0 +1,59 @@
+:root {
+  --primary: #184c40;
+  --secondary: #12362f;
+  --accent: #d6ed96;
+  --header-color: #fff;
+  --header-link-color: #d6ed96;
+  --breadcrumbs-bg: #246153;
+  --link-fg: #21705d;
+  --link-selected-fg: #12362f;
+  --button-bg: #184c40;
+  --button-hover-bg: #246153;
+  --default-button-bg: #12362f;
+  --default-button-hover-bg: #246153;
+}
+
+#header {
+  padding: 22px 40px;
+}
+
+#branding #site-name a {
+  font-weight: 650;
+  color: #fff;
+}
+
+.admin-dashboard-link {
+  font-size: 13px;
+  margin: 0 20px;
+  color: #d6ed96!important;
+}
+
+.module {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+#content {
+  padding: 30px 40px;
+}
+
+.dashboard #content {
+  width: auto;
+  max-width: 1100px;
+}
+
+#changelist-filter h2 {
+  background: #184c40;
+}
+
+@media(max-width:767px) {
+  #header {
+    padding: 16px;
+  }
+  .admin-dashboard-link {
+    margin: 10px;
+  }
+  #content {
+    padding: 20px;
+  }
+}

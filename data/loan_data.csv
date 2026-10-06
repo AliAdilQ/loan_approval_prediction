@@ -1,0 +1,801 @@
+applicant_income,coapplicant_income,loan_amount,loan_amount_term,credit_history,gender,married,dependents,education,self_employed,property_area,Loan_Status
+4498.5,0.0,268115.75,240,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+2205.72,0.0,234941.87,120,1.0,Male,No,1,Graduate,Yes,Urban,Rejected
+5697.25,3554.36,195025.24,300,1.0,Male,No,0,Graduate,No,Urban,Approved
+6301.22,0.0,115383.92,120,1.0,Male,Yes,3+,Not Graduate,Yes,Urban,Approved
+1360.97,0.0,228576.65,180,0.0,Female,Yes,1,Graduate,Yes,Semiurban,Rejected
+1919.55,0.0,307005.42,180,1.0,Male,Yes,0,Not Graduate,No,Rural,Rejected
+4095.96,0.0,195431.58,360,1.0,Female,Yes,1,Graduate,,Semiurban,Approved
+3236.96,0.0,218632.15,240,1.0,Male,No,0,Graduate,No,Semiurban,Rejected
+3793.69,1731.03,150012.67,240,1.0,Female,Yes,2,Graduate,Yes,Rural,Approved
+2435.45,3957.15,246348.48,240,1.0,Female,Yes,1,Graduate,No,Rural,Approved
+6100.22,4071.04,319295.55,360,1.0,Female,Yes,1,Not Graduate,No,Semiurban,Approved
+5780.41,0.0,66437.58,360,1.0,Female,No,3+,Graduate,No,Rural,Approved
+3963.95,0.0,79126.39,360,0.0,Female,Yes,2,Graduate,No,Urban,Approved
+6956.54,1522.59,180910.2,240,1.0,Male,No,2,Graduate,No,Semiurban,Approved
+4903.87,1452.73,163375.37,120,1.0,Female,No,0,Graduate,No,Semiurban,Approved
+2427.4,0.0,190614.07,300,0.0,Female,Yes,0,Graduate,Yes,Rural,Rejected
+4653.79,1931.38,32820.36,240,,Female,Yes,2,Graduate,No,Semiurban,Rejected
+2302.6,0.0,140091.49,360,0.0,Male,Yes,1,Graduate,Yes,Rural,Rejected
+6097.16,4774.98,194059.44,360,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+3727.67,,194727.79,300,1.0,Female,No,2,Not Graduate,Yes,Urban,Rejected
+3470.39,1823.74,216514.86,360,1.0,Female,No,0,Graduate,No,Rural,Approved
+2668.06,1861.02,235505.24,300,1.0,Female,Yes,0,Not Graduate,No,Rural,Approved
+7316.94,0.0,211747.26,180,1.0,Male,Yes,1,Not Graduate,No,Rural,Approved
+3526.63,0.0,256653.43,300,1.0,Male,Yes,0,Graduate,No,Urban,Rejected
+3050.27,4941.47,206677.71,60,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+3175.97,2449.42,180327.31,360,1.0,Female,No,2,Not Graduate,Yes,Urban,Approved
+5075.21,0.0,201071.32,120,1.0,Female,No,1,Graduate,No,Semiurban,Rejected
+4645.64,0.0,48560.4,240,1.0,Female,No,2,Graduate,No,Semiurban,Approved
+4763.55,2436.3,100493.28,360,1.0,Male,Yes,1,Graduate,Yes,Rural,Approved
+4809.44,761.54,177274.73,120,1.0,Male,Yes,2,Graduate,No,Rural,Approved
+11909.28,0.0,281642.14,120,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+3085.9,0.0,223073.57,360,1.0,Female,No,2,Not Graduate,Yes,Urban,Approved
+2917.58,0.0,45303.24,120,0.0,Male,No,2,Graduate,No,Urban,Rejected
+2486.67,0.0,196867.04,300,1.0,Female,No,0,Not Graduate,Yes,Semiurban,Rejected
+5305.34,4820.02,84964.87,240,0.0,Male,Yes,1,Graduate,Yes,Semiurban,Approved
+6962.93,0.0,239673.0,180,1.0,Male,Yes,2,Graduate,No,Rural,Approved
+3603.31,0.0,267887.14,180,1.0,Female,No,0,Graduate,No,Urban,Approved
+2452.14,0.0,197223.79,360,,Female,Yes,2,Graduate,No,Urban,Approved
+2472.6,832.47,196591.51,360,,Female,Yes,3+,Graduate,No,Urban,Approved
+5403.56,4590.15,120254.62,180,0.0,Female,Yes,2,Graduate,,Rural,Rejected
+5675.56,0.0,152767.51,360,1.0,Female,No,0,Graduate,No,Rural,Approved
+5104.47,3447.02,278960.72,360,1.0,Female,Yes,1,Graduate,No,Rural,Approved
+2689.96,0.0,236442.74,360,1.0,Female,No,3+,Graduate,No,Semiurban,Approved
+4328.8,1190.15,174965.61,360,0.0,Female,Yes,1,Graduate,No,Urban,Rejected
+4071.81,0.0,129206.18,360,0.0,Male,Yes,0,Graduate,No,Rural,Approved
+4298.0,0.0,33214.68,360,1.0,Female,Yes,0,Graduate,,Urban,Approved
+6074.51,3950.52,61188.24,300,1.0,Male,Yes,2,Graduate,Yes,Urban,Approved
+4309.19,2629.62,76293.61,300,1.0,Female,No,0,Graduate,No,Rural,Approved
+5485.28,0.0,130761.83,240,0.0,Female,No,0,Graduate,No,Semiurban,Rejected
+3967.2,0.0,303131.38,120,1.0,Female,No,0,Graduate,No,Urban,Rejected
+4461.47,4025.95,170556.33,360,1.0,Female,No,2,Graduate,No,Semiurban,Approved
+5348.56,0.0,88921.73,60,1.0,Male,No,1,Graduate,No,Urban,Rejected
+1768.18,0.0,49936.54,180,1.0,Male,Yes,2,Graduate,Yes,Urban,Approved
+3231.09,1924.13,120168.27,120,1.0,Male,No,2,Graduate,No,Rural,Approved
+2983.05,1142.08,264350.65,180,1.0,Male,Yes,3+,Not Graduate,,Urban,Rejected
+2728.19,1696.36,133769.52,360,1.0,Female,No,2,Not Graduate,Yes,Rural,Approved
+3308.25,2913.22,251296.75,360,1.0,Female,Yes,0,Graduate,Yes,Semiurban,Approved
+8453.36,2924.27,260416.9,240,1.0,Female,No,1,,Yes,Semiurban,Approved
+2419.0,3280.16,51467.87,120,0.0,Male,Yes,0,Graduate,No,Rural,Rejected
+6394.46,0.0,201815.25,240,0.0,Male,Yes,3+,Not Graduate,No,Semiurban,Approved
+1568.82,4219.7,307647.01,240,0.0,Female,Yes,0,Graduate,No,Urban,Rejected
+3205.14,0.0,139445.7,360,,Female,Yes,1,Graduate,Yes,Rural,Approved
+4172.45,1734.94,33385.11,360,1.0,Male,Yes,2,Graduate,No,Semiurban,Approved
+5222.32,3988.01,296837.41,300,0.0,Female,Yes,0,Graduate,No,Semiurban,Rejected
+5580.03,0.0,284867.22,300,0.0,Female,Yes,2,Graduate,No,Semiurban,Rejected
+5828.26,0.0,175686.72,360,1.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+3181.72,1467.24,184780.44,360,1.0,Male,Yes,1,Graduate,Yes,Semiurban,Approved
+2995.76,4258.07,81945.81,300,1.0,Male,No,1,Graduate,No,Rural,Approved
+6031.36,5018.88,265474.13,300,1.0,Female,Yes,0,Not Graduate,No,Urban,Approved
+3458.56,0.0,168577.21,60,1.0,Female,Yes,1,Not Graduate,Yes,Semiurban,Rejected
+1946.69,4822.16,28231.09,360,1.0,Male,Yes,3+,Graduate,No,Semiurban,Approved
+2099.3,5127.25,224270.52,240,1.0,Male,Yes,0,Graduate,Yes,Semiurban,Rejected
+2351.22,2219.43,305049.87,180,1.0,Female,Yes,1,Graduate,Yes,Urban,Rejected
+4981.54,3535.83,268403.45,360,1.0,Male,Yes,2,Not Graduate,No,Semiurban,Approved
+4127.74,0.0,101713.84,360,1.0,Male,Yes,2,Graduate,,Urban,Rejected
+5519.03,0.0,34104.18,120,0.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+3052.01,1031.52,301986.13,120,1.0,Male,Yes,3+,Not Graduate,No,Rural,Rejected
+4163.14,2496.92,300992.94,60,1.0,Female,Yes,0,Graduate,No,Semiurban,Rejected
+5332.43,4627.48,178789.43,360,1.0,Female,Yes,1,Graduate,Yes,Rural,Approved
+3248.82,1906.64,211979.86,120,1.0,Male,No,1,Graduate,No,Semiurban,Approved
+4876.05,0.0,157705.22,360,1.0,Male,Yes,2,Graduate,No,Urban,Approved
+2695.07,0.0,144769.14,360,1.0,Female,No,0,Graduate,No,Semiurban,Approved
+3157.64,0.0,54073.43,300,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+3126.53,0.0,47219.38,360,1.0,Female,Yes,2,Not Graduate,No,Rural,Approved
+2030.84,0.0,88285.11,240,1.0,Male,Yes,0,Graduate,Yes,Rural,Approved
+4954.72,0.0,270665.51,120,0.0,Male,Yes,1,Not Graduate,Yes,Semiurban,Rejected
+2984.59,2149.54,62041.35,360,1.0,Female,Yes,2,,No,Rural,Approved
+3853.06,3389.27,86462.99,120,1.0,Male,No,1,Graduate,No,Urban,Approved
+4938.4,3629.01,183681.45,120,1.0,Female,No,0,Not Graduate,Yes,Urban,Rejected
+4849.65,0.0,82969.63,240,1.0,Female,Yes,0,Graduate,Yes,Urban,Approved
+5446.09,712.47,67288.42,60,1.0,Male,Yes,3+,Graduate,No,Semiurban,Approved
+3632.96,0.0,188121.5,240,1.0,Female,No,1,Graduate,Yes,Urban,Rejected
+3058.41,0.0,129164.17,360,1.0,Male,Yes,0,Graduate,Yes,Semiurban,Approved
+3669.27,0.0,207100.1,360,1.0,Male,Yes,0,Not Graduate,No,Rural,Approved
+1565.11,2879.78,293486.01,360,1.0,Male,No,0,Graduate,No,Semiurban,Approved
+1777.62,853.97,63599.93,360,0.0,Female,Yes,3+,Graduate,No,Semiurban,Rejected
+1898.78,2202.07,293856.97,240,1.0,Female,Yes,0,Graduate,No,Urban,Rejected
+2256.25,0.0,290551.97,360,1.0,Female,Yes,0,Graduate,No,Urban,Rejected
+4730.95,0.0,268384.45,300,1.0,Male,Yes,1,Graduate,No,Rural,Approved
+2368.7,0.0,208648.35,180,1.0,Female,Yes,0,Graduate,No,Rural,Rejected
+3132.46,4947.68,205284.29,360,1.0,Male,No,0,Not Graduate,No,Urban,Approved
+7620.45,834.05,211042.22,180,1.0,Female,Yes,3+,Graduate,No,Urban,Approved
+3169.03,4048.65,226529.66,60,1.0,Male,Yes,2,Not Graduate,No,Rural,Approved
+5658.33,0.0,22977.62,180,1.0,Male,Yes,0,Graduate,No,Urban,Approved
+2333.64,0.0,307343.96,240,1.0,Female,No,1,Graduate,Yes,Semiurban,Rejected
+3432.75,4031.91,194852.34,240,0.0,Male,Yes,0,Graduate,No,Rural,Rejected
+2313.43,0.0,254002.68,300,1.0,Female,No,0,Graduate,No,Rural,Rejected
+3198.1,1593.25,131939.12,360,1.0,Male,Yes,1,Not Graduate,No,Semiurban,Approved
+5975.14,0.0,21743.96,240,1.0,Male,Yes,1,Graduate,No,Semiurban,Approved
+1532.29,4184.64,171939.87,300,1.0,Female,Yes,2,Graduate,No,Rural,Rejected
+4818.63,1730.22,171171.42,240,1.0,Male,Yes,3+,Not Graduate,No,Rural,Approved
+4341.61,0.0,149970.77,360,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+2793.64,725.04,120594.55,180,0.0,Male,No,3+,Graduate,No,Semiurban,Rejected
+1778.61,5009.17,93447.48,120,1.0,Female,No,1,Not Graduate,No,Rural,Approved
+3976.78,3866.08,177318.55,300,1.0,Female,No,0,Graduate,No,Rural,Approved
+2891.03,3523.58,131334.0,360,0.0,Male,Yes,2,Not Graduate,Yes,Urban,Rejected
+4329.98,0.0,310919.43,360,0.0,Male,Yes,0,Graduate,Yes,Urban,Rejected
+3872.21,0.0,70224.05,360,1.0,Female,Yes,1,Not Graduate,No,Rural,Approved
+8945.83,0.0,114539.0,360,1.0,Female,Yes,2,Graduate,No,Urban,Approved
+3371.6,2667.85,106776.06,240,1.0,Male,No,0,Graduate,,Rural,Approved
+2225.08,0.0,182079.37,60,0.0,Male,No,2,Graduate,Yes,Semiurban,Rejected
+4209.15,1527.06,168782.64,120,1.0,Male,Yes,0,Not Graduate,No,Urban,Approved
+4300.98,4685.07,212409.62,60,1.0,Male,No,2,Graduate,No,Semiurban,Approved
+7866.51,4334.06,304900.53,240,1.0,Male,No,0,Not Graduate,No,Rural,Rejected
+5958.71,0.0,104136.77,300,1.0,Male,Yes,0,Graduate,Yes,Rural,Approved
+4624.58,0.0,227217.01,240,0.0,Female,No,0,Graduate,No,Semiurban,Rejected
+8312.79,0.0,25562.14,360,1.0,Female,Yes,2,Not Graduate,Yes,Urban,Approved
+2038.47,5072.79,97241.32,300,0.0,Male,Yes,0,Graduate,No,Rural,Rejected
+2726.93,4753.31,158043.36,360,,Female,Yes,2,,Yes,Rural,Approved
+2342.36,0.0,27360.43,360,0.0,Female,Yes,0,Graduate,Yes,Semiurban,Rejected
+3113.18,0.0,204536.18,240,1.0,Female,Yes,1,Graduate,Yes,Semiurban,Approved
+1845.22,1378.02,222849.8,240,1.0,Female,No,0,Graduate,No,Semiurban,Approved
+5359.52,1574.15,243512.98,360,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+3402.35,1014.01,174005.5,360,1.0,Female,Yes,3+,Graduate,No,Urban,Approved
+1755.44,0.0,200391.29,240,1.0,Male,Yes,1,Graduate,No,Urban,Rejected
+2234.43,928.0,137611.71,240,0.0,Male,Yes,2,Graduate,No,Rural,Rejected
+4519.53,0.0,30458.42,360,0.0,Female,No,1,Graduate,No,Urban,Rejected
+5968.24,940.67,48185.46,360,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+11028.82,0.0,215808.77,180,1.0,Male,No,1,Graduate,No,Semiurban,Approved
+17932.09,4405.37,318657.7,300,1.0,Female,No,3+,Graduate,No,Urban,Approved
+4767.78,3269.1,22772.58,360,1.0,Male,Yes,2,Graduate,No,Rural,Approved
+2265.49,4162.32,186390.22,60,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+1236.47,3502.2,244804.64,360,1.0,Female,Yes,1,Graduate,No,Rural,Rejected
+4411.13,0.0,267686.0,180,1.0,Female,No,1,Not Graduate,No,Rural,Approved
+2487.77,3536.95,182651.88,300,1.0,Male,No,1,Graduate,Yes,Rural,Approved
+3071.31,0.0,205214.63,240,1.0,Female,Yes,1,Graduate,Yes,Urban,Approved
+2767.19,3878.65,228410.93,60,1.0,Female,Yes,1,Graduate,,Rural,Approved
+3552.41,2658.01,277407.81,360,1.0,Male,No,2,Graduate,No,Semiurban,Rejected
+6734.3,0.0,54931.44,300,1.0,Male,Yes,3+,Not Graduate,No,Semiurban,Approved
+4159.86,2751.2,297707.02,360,1.0,Female,No,3+,Not Graduate,Yes,Rural,Approved
+3518.97,0.0,25857.26,240,1.0,Female,No,2,Not Graduate,No,Semiurban,Approved
+2210.79,0.0,270532.32,360,0.0,Male,Yes,1,Graduate,No,Urban,Rejected
+1575.64,0.0,41175.61,360,1.0,Male,Yes,2,Graduate,No,Urban,Approved
+2957.96,1306.25,76777.72,300,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+3720.06,1733.22,19176.03,180,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+9769.33,0.0,152467.53,360,1.0,Female,No,0,Graduate,No,Urban,Approved
+4101.24,2118.93,118976.49,300,0.0,Female,No,0,Graduate,No,Urban,Rejected
+6443.66,3755.83,68129.86,360,0.0,Male,No,3+,Graduate,No,Rural,Rejected
+2937.67,4539.48,154229.23,240,0.0,Male,Yes,2,Not Graduate,No,Semiurban,Approved
+2042.6,0.0,139516.01,180,1.0,Male,Yes,1,Graduate,No,Rural,Approved
+2295.0,0.0,249833.63,180,0.0,Male,No,0,Graduate,No,Urban,Rejected
+2606.15,0.0,287725.35,360,1.0,Male,Yes,2,Not Graduate,No,Urban,Rejected
+11826.39,0.0,215075.31,360,1.0,Female,Yes,1,Graduate,Yes,Urban,Approved
+2476.66,3768.95,55571.94,60,1.0,Male,Yes,2,Graduate,Yes,Semiurban,Approved
+5969.39,0.0,107208.02,360,1.0,Male,Yes,3+,Graduate,No,Rural,Approved
+2371.9,1957.09,293822.13,360,1.0,Male,No,0,Graduate,No,Semiurban,Rejected
+6271.27,0.0,44797.82,120,0.0,Female,Yes,0,Graduate,No,Urban,Rejected
+4693.92,1933.24,140870.46,120,1.0,Female,No,0,Graduate,No,Rural,Approved
+3522.7,0.0,302636.4,360,0.0,Male,Yes,0,Graduate,No,Semiurban,Rejected
+3745.82,3460.57,305100.78,360,0.0,Male,Yes,0,Graduate,No,Semiurban,Rejected
+2705.28,3407.54,142183.36,120,0.0,Female,Yes,0,Graduate,No,Urban,Rejected
+4848.47,3468.31,219553.86,360,1.0,Male,No,0,Graduate,No,Semiurban,Approved
+3007.48,1221.37,155937.17,300,0.0,Female,Yes,0,Not Graduate,No,Semiurban,Rejected
+1999.05,3790.29,245545.08,360,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+1944.37,0.0,27537.56,360,1.0,Male,Yes,2,Graduate,No,Urban,Approved
+4194.26,3739.91,61535.46,360,1.0,Female,No,0,Graduate,No,Urban,Approved
+8838.91,0.0,203488.04,300,0.0,Male,No,2,Not Graduate,No,Rural,Rejected
+4166.35,2655.46,88230.78,180,0.0,Male,Yes,0,Graduate,No,Semiurban,Rejected
+3594.36,0.0,219147.79,300,1.0,Female,No,0,,Yes,Urban,Rejected
+4453.69,998.87,124069.32,120,0.0,Male,Yes,0,Graduate,No,Urban,Approved
+7647.86,0.0,285766.96,360,1.0,Male,Yes,2,Graduate,No,Semiurban,Approved
+4299.58,,265416.33,180,1.0,Male,Yes,0,Graduate,Yes,Semiurban,Rejected
+3078.53,4017.37,166837.02,300,1.0,Female,No,1,Graduate,No,Urban,Approved
+6879.72,0.0,251414.32,120,0.0,Male,Yes,0,Not Graduate,No,Semiurban,Rejected
+4804.18,4416.85,99883.64,240,1.0,Male,Yes,3+,Graduate,No,Rural,Rejected
+8638.21,3110.67,167266.45,180,0.0,Male,Yes,0,Graduate,No,Rural,Rejected
+4217.99,0.0,77639.58,360,1.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+2000.26,0.0,277987.62,360,0.0,Female,No,2,Graduate,Yes,Semiurban,Rejected
+1853.58,2896.29,266566.42,120,1.0,Female,No,0,Graduate,No,Semiurban,Rejected
+9181.92,3450.71,290449.2,360,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+9542.81,0.0,282998.05,360,0.0,Female,Yes,2,Not Graduate,No,Urban,Rejected
+3480.23,0.0,307798.07,240,0.0,Male,Yes,0,Not Graduate,No,Rural,Rejected
+3124.13,0.0,86957.54,360,1.0,Male,Yes,0,Not Graduate,No,Urban,Approved
+8304.61,0.0,299410.94,240,0.0,Female,Yes,0,Graduate,Yes,Rural,Rejected
+2128.7,0.0,190506.38,180,0.0,Male,No,0,Graduate,No,Urban,Rejected
+2382.24,930.51,145593.52,300,1.0,Male,Yes,3+,Graduate,Yes,Rural,Approved
+5382.8,0.0,187232.92,120,1.0,Male,No,1,Graduate,,Rural,Rejected
+3105.28,2815.32,121465.91,360,0.0,Male,Yes,1,,No,Rural,Rejected
+3817.25,0.0,105143.01,360,1.0,Female,No,0,Graduate,No,Rural,Approved
+3510.01,2870.13,90876.93,360,0.0,Male,Yes,2,Graduate,No,Urban,Approved
+4577.53,0.0,42893.25,360,1.0,Female,No,1,Graduate,No,Semiurban,Approved
+8070.46,0.0,167962.6,300,0.0,Male,No,0,Not Graduate,No,Semiurban,Rejected
+4015.87,2672.65,286104.03,360,1.0,Male,Yes,2,Graduate,No,Semiurban,Approved
+5384.54,0.0,208305.89,180,1.0,Female,No,1,Graduate,No,Urban,Rejected
+1291.31,1597.81,175334.64,120,0.0,Male,Yes,2,Graduate,No,Rural,Rejected
+3730.06,0.0,147435.06,360,0.0,Male,Yes,0,Graduate,Yes,Urban,Rejected
+2448.15,602.61,158249.29,240,1.0,Male,Yes,0,Not Graduate,No,Rural,Rejected
+2006.26,2586.95,81201.76,240,1.0,Female,No,2,Graduate,No,Rural,Approved
+2403.25,4138.52,266526.63,60,1.0,Female,No,2,Not Graduate,No,Urban,Rejected
+3206.43,3973.95,77911.65,360,1.0,Male,Yes,0,Not Graduate,Yes,Rural,Approved
+6219.4,747.89,234420.07,180,1.0,Female,No,0,Graduate,No,Semiurban,Approved
+1895.07,0.0,247515.47,180,1.0,Female,Yes,2,Graduate,No,Urban,Rejected
+3890.27,0.0,191610.45,120,1.0,Male,Yes,0,Graduate,No,Rural,Approved
+2961.32,0.0,278603.77,240,1.0,Female,Yes,0,Graduate,No,Urban,Rejected
+3217.41,1369.88,105897.21,360,1.0,Female,Yes,1,Graduate,No,Urban,Approved
+6512.39,3482.54,284248.4,240,0.0,Male,Yes,0,Not Graduate,No,Rural,Approved
+5090.86,2100.7,238281.96,360,1.0,Male,Yes,0,Graduate,No,Rural,Approved
+7776.18,0.0,259222.45,360,0.0,Male,Yes,0,Not Graduate,Yes,Urban,Rejected
+3526.68,0.0,218703.07,240,0.0,Female,Yes,3+,,Yes,Urban,Rejected
+2646.92,4094.36,273595.59,360,1.0,Female,No,0,Not Graduate,No,Urban,Approved
+3399.4,0.0,317915.86,360,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+4352.58,4766.64,144889.18,300,0.0,Female,No,3+,Graduate,No,Urban,Rejected
+4203.13,2900.96,263802.54,60,0.0,Male,Yes,1,Graduate,Yes,Semiurban,Rejected
+2154.41,4078.03,242863.09,60,1.0,Male,Yes,1,Graduate,No,Urban,Rejected
+4015.67,4508.76,154766.79,360,1.0,Female,Yes,1,Not Graduate,Yes,Urban,Approved
+4319.79,0.0,297938.6,360,0.0,Female,No,0,Graduate,No,Urban,Rejected
+14534.22,0.0,137116.63,360,0.0,Male,Yes,1,Graduate,No,Rural,Rejected
+10349.85,1919.71,188770.71,360,1.0,Male,Yes,3+,Graduate,No,Rural,Rejected
+2435.19,0.0,49994.59,60,1.0,Male,No,2,Graduate,No,Rural,Approved
+3286.86,0.0,86184.11,360,1.0,Male,No,0,Graduate,No,Semiurban,Approved
+1762.3,0.0,271890.24,300,1.0,Female,Yes,0,Graduate,No,Semiurban,Rejected
+2798.74,0.0,137758.92,360,1.0,Female,Yes,2,Graduate,Yes,Semiurban,Rejected
+4524.54,5155.28,137013.4,60,1.0,Male,Yes,0,Graduate,No,Rural,Approved
+7252.51,0.0,92286.27,240,1.0,Male,Yes,2,Graduate,No,Rural,Approved
+2600.83,3539.53,166466.32,360,1.0,Female,No,0,Not Graduate,No,Rural,Approved
+2706.2,0.0,261356.72,360,1.0,Male,Yes,2,Graduate,No,Semiurban,Rejected
+1226.52,,288339.56,360,,Female,Yes,2,Graduate,No,Rural,Approved
+3511.46,0.0,39174.56,240,1.0,Male,Yes,1,Graduate,No,Rural,Approved
+2179.65,3031.29,191595.86,240,1.0,Male,Yes,0,Graduate,Yes,Rural,Approved
+2891.11,4431.05,159116.56,360,1.0,Male,No,2,Graduate,Yes,Semiurban,Approved
+2404.9,0.0,203513.12,240,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+3641.1,0.0,153077.26,300,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+1507.8,5133.86,138390.74,300,1.0,Female,Yes,1,Graduate,Yes,Semiurban,Approved
+1758.94,0.0,160507.98,240,1.0,Male,Yes,1,Graduate,Yes,Semiurban,Rejected
+11831.27,0.0,193763.74,300,0.0,Female,Yes,1,Not Graduate,Yes,Urban,Rejected
+1934.62,4272.86,169296.93,240,0.0,Female,Yes,0,Graduate,No,Rural,Rejected
+2140.31,0.0,160587.62,360,1.0,Female,Yes,1,Graduate,No,Semiurban,Rejected
+10133.12,2075.91,264986.26,360,1.0,Female,No,3+,Graduate,Yes,Rural,Approved
+17848.69,0.0,243185.69,360,1.0,Male,No,0,Graduate,No,Urban,Approved
+2057.14,,121096.31,360,1.0,Male,No,1,Graduate,No,Rural,Approved
+3148.96,2925.31,259774.29,300,0.0,Female,Yes,1,Graduate,No,Rural,Rejected
+4587.2,0.0,275802.5,360,1.0,Male,Yes,2,Graduate,Yes,Urban,Approved
+9568.29,0.0,64354.65,360,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+2268.71,,193970.1,360,0.0,Female,No,2,Graduate,No,Rural,Rejected
+3361.03,0.0,104164.22,360,1.0,Male,Yes,0,Not Graduate,No,Rural,Approved
+5779.02,0.0,241230.04,360,0.0,Male,Yes,0,Graduate,Yes,Rural,Rejected
+4819.5,0.0,90113.17,360,1.0,Male,Yes,3+,Not Graduate,No,Semiurban,Approved
+3135.79,0.0,220763.86,360,0.0,Male,Yes,2,Graduate,Yes,Urban,Rejected
+3565.55,4512.4,95047.65,180,1.0,Male,No,1,Not Graduate,No,Rural,Approved
+1846.98,2652.9,172365.42,300,1.0,Female,No,1,Graduate,Yes,Rural,Approved
+3373.71,1648.19,304491.23,360,0.0,Female,Yes,1,Graduate,No,Rural,Rejected
+3323.64,,133154.88,60,0.0,Male,No,0,Not Graduate,No,Urban,Rejected
+4328.82,3148.31,282473.02,360,0.0,Female,Yes,3+,Graduate,No,Semiurban,Rejected
+2851.72,697.32,316057.26,360,1.0,Female,Yes,2,Graduate,No,Urban,Approved
+4914.35,0.0,282204.96,180,1.0,Female,Yes,1,Not Graduate,Yes,Rural,Approved
+6546.85,1414.21,68091.54,360,1.0,Female,No,0,Graduate,No,Rural,Approved
+4156.29,3617.02,265536.78,360,1.0,Male,Yes,0,Graduate,Yes,Urban,Approved
+4612.06,0.0,27709.12,360,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+3936.99,0.0,136777.17,240,1.0,Male,No,2,Not Graduate,No,Semiurban,Approved
+3827.8,852.7,280961.48,360,1.0,Male,Yes,1,Not Graduate,Yes,Semiurban,Rejected
+2611.22,3275.95,226003.17,240,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+4526.67,699.93,178887.61,360,1.0,Male,Yes,1,Graduate,Yes,Semiurban,Approved
+3635.27,0.0,135134.94,60,1.0,Female,No,3+,Graduate,Yes,Rural,Rejected
+11607.18,0.0,263313.68,360,1.0,Male,No,0,Graduate,No,Rural,Approved
+8812.07,3390.21,232286.64,360,0.0,Female,No,1,Not Graduate,No,Rural,Rejected
+4696.15,0.0,159458.41,360,0.0,Female,Yes,1,Graduate,No,Semiurban,Rejected
+2554.42,2637.12,287530.27,300,1.0,Male,Yes,0,Graduate,No,Rural,Approved
+2122.65,930.27,87444.3,360,1.0,Female,No,1,Graduate,,Rural,Approved
+7196.18,0.0,69458.24,360,1.0,Female,Yes,1,Graduate,No,Urban,Approved
+4399.55,4708.04,212126.74,180,1.0,Female,Yes,0,Not Graduate,Yes,Rural,Approved
+4936.82,650.68,311542.29,360,1.0,Male,No,0,Graduate,No,Semiurban,Rejected
+1518.33,1421.58,92671.49,360,1.0,Male,Yes,2,Graduate,Yes,Semiurban,Approved
+6257.54,0.0,93400.45,360,0.0,Male,Yes,0,Not Graduate,No,Rural,Rejected
+4869.97,0.0,60128.65,360,1.0,Female,No,1,Not Graduate,No,Rural,Approved
+2124.88,0.0,277890.19,360,0.0,Female,No,1,Graduate,No,Rural,Rejected
+2981.23,1532.84,86372.06,360,1.0,Female,No,2,Not Graduate,No,Rural,Approved
+4401.81,3635.94,169959.92,360,1.0,Male,No,2,Graduate,No,Semiurban,Approved
+3935.56,0.0,317243.49,180,1.0,Female,Yes,2,Not Graduate,No,Semiurban,Rejected
+3278.53,3357.36,21666.55,300,1.0,Male,No,1,Graduate,No,Semiurban,Approved
+3623.34,0.0,186058.8,360,1.0,Female,Yes,1,Graduate,No,Rural,Rejected
+3349.12,0.0,172711.29,300,1.0,Female,No,0,Graduate,No,Urban,Approved
+4149.98,1981.25,261849.11,360,1.0,Male,Yes,0,Graduate,Yes,Semiurban,Rejected
+8348.95,0.0,125295.02,120,1.0,Male,No,0,Graduate,No,Rural,Approved
+982.08,2254.46,141923.09,240,0.0,Male,Yes,0,Graduate,No,Urban,Rejected
+3376.08,1632.31,68717.27,300,0.0,Female,No,0,Graduate,No,Semiurban,Rejected
+4202.99,0.0,241726.2,240,1.0,Female,Yes,0,Graduate,Yes,Urban,Rejected
+4477.75,2220.18,254982.09,120,0.0,Male,Yes,0,Graduate,No,Urban,Rejected
+3142.85,0.0,59272.32,180,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+1508.6,0.0,136824.04,360,1.0,Male,Yes,2,Not Graduate,No,Urban,Approved
+4554.35,0.0,287657.31,300,1.0,Male,No,1,Not Graduate,Yes,Urban,Rejected
+9561.46,0.0,18817.6,120,0.0,Female,Yes,2,Graduate,No,Semiurban,Approved
+1697.74,3407.86,108225.24,60,1.0,Male,Yes,1,Graduate,No,Semiurban,Approved
+6050.09,4172.58,185622.77,300,0.0,Female,Yes,2,Graduate,No,Urban,Rejected
+3215.96,0.0,118896.35,180,1.0,Male,Yes,2,Graduate,No,Semiurban,Approved
+3705.22,0.0,100157.65,360,1.0,Female,Yes,0,Not Graduate,,Urban,Approved
+2190.67,1072.87,156931.32,360,0.0,Female,Yes,3+,Graduate,No,Semiurban,Rejected
+3205.87,2785.1,72819.98,180,0.0,Male,Yes,0,Graduate,Yes,Urban,Rejected
+7623.75,3375.67,177946.82,360,0.0,Male,Yes,1,Graduate,No,Urban,Rejected
+5212.46,1729.6,231422.17,180,1.0,Female,Yes,2,Graduate,No,Semiurban,Approved
+9586.63,0.0,191739.08,240,1.0,Male,Yes,0,Not Graduate,No,Rural,Approved
+7144.0,1628.52,46119.02,360,0.0,Male,Yes,1,Graduate,No,Semiurban,Rejected
+4830.55,0.0,273011.4,300,0.0,Female,Yes,0,Graduate,No,Semiurban,Rejected
+9645.87,0.0,70843.31,360,1.0,Male,No,0,Graduate,Yes,Semiurban,Approved
+4830.31,0.0,248973.22,180,0.0,Female,Yes,0,Not Graduate,No,Urban,Rejected
+5936.25,4392.31,126890.66,240,1.0,Female,Yes,0,Graduate,Yes,Urban,Approved
+3270.89,4858.16,254393.93,300,1.0,Male,Yes,0,Not Graduate,No,Semiurban,Approved
+3965.03,0.0,80294.42,300,1.0,Male,No,1,Not Graduate,Yes,Semiurban,Approved
+2644.84,0.0,74371.96,360,1.0,Male,Yes,1,Graduate,No,Semiurban,Approved
+6467.08,682.16,168101.81,120,1.0,Male,Yes,1,,No,Rural,Approved
+2049.8,0.0,27946.68,360,1.0,Male,No,2,Graduate,No,Semiurban,Approved
+5794.39,4978.87,86039.8,360,0.0,Female,No,0,Graduate,No,Urban,Rejected
+3459.76,0.0,236651.7,300,0.0,Male,Yes,0,Graduate,No,Semiurban,Rejected
+7120.7,4109.89,270889.81,240,1.0,Male,No,2,Graduate,No,Semiurban,Approved
+5698.51,5062.93,42397.18,300,0.0,Male,Yes,3+,,Yes,Urban,Rejected
+10046.13,0.0,284387.47,240,1.0,Male,No,1,Graduate,No,Semiurban,Approved
+5638.15,5065.27,258850.2,360,1.0,Male,No,0,Graduate,No,Rural,Approved
+1663.73,3131.49,280644.66,300,1.0,Male,Yes,2,Graduate,No,Semiurban,Approved
+3694.18,959.52,228925.42,360,1.0,Female,Yes,2,Graduate,Yes,Semiurban,Approved
+2056.66,4509.03,221594.23,360,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+2908.26,0.0,176578.16,300,1.0,Female,No,0,Graduate,No,Urban,Approved
+8526.64,3427.79,215141.74,360,0.0,Female,Yes,0,Not Graduate,,Urban,Rejected
+5366.29,0.0,295571.12,300,1.0,Female,Yes,1,Not Graduate,Yes,Rural,Rejected
+2642.73,0.0,48357.64,360,1.0,Male,No,3+,Graduate,No,Rural,Approved
+2236.64,1306.47,113360.87,180,1.0,Male,No,1,Graduate,No,Semiurban,Approved
+3894.71,4002.94,39881.4,360,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+2008.66,0.0,303331.16,360,0.0,Male,No,1,Not Graduate,No,Semiurban,Rejected
+2681.94,0.0,152470.17,360,1.0,Female,Yes,2,Graduate,No,Semiurban,Approved
+4515.92,0.0,221954.03,300,1.0,Female,No,1,Not Graduate,No,Semiurban,Approved
+7060.81,0.0,272018.26,360,,Male,Yes,2,Graduate,No,Urban,Rejected
+5285.08,2945.22,317282.07,240,1.0,Female,Yes,0,Graduate,,Semiurban,Approved
+1136.4,2036.19,66858.3,360,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+4497.67,0.0,259452.81,180,0.0,Female,Yes,1,Graduate,Yes,Semiurban,Rejected
+3976.58,3972.37,286001.72,240,1.0,Male,Yes,1,Not Graduate,No,Rural,Approved
+4766.47,0.0,32760.36,300,0.0,Male,Yes,3+,Graduate,No,Urban,Approved
+9014.51,1404.11,245735.35,240,1.0,Male,No,1,Graduate,No,Urban,Approved
+1282.39,0.0,125127.05,240,0.0,Male,No,0,Graduate,Yes,Urban,Rejected
+2798.15,2734.04,213876.23,360,1.0,Female,No,0,Graduate,No,Semiurban,Approved
+5235.3,4935.81,173242.56,180,,Female,No,1,Graduate,No,Rural,Rejected
+1655.33,3977.07,96442.16,360,1.0,Male,No,0,Graduate,Yes,Semiurban,Approved
+8368.69,1590.12,58836.85,120,0.0,Female,Yes,2,Graduate,No,Semiurban,Approved
+4652.82,0.0,53318.06,360,1.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+5995.05,2339.72,49203.5,360,1.0,Male,No,0,Graduate,,Semiurban,Approved
+2828.21,4517.92,210612.59,240,0.0,Male,No,1,Graduate,No,Rural,Rejected
+5891.67,1711.82,124126.08,360,1.0,Female,No,0,Graduate,No,Urban,Rejected
+6743.2,3445.84,83423.3,360,1.0,Female,No,1,Graduate,No,Urban,Approved
+4330.44,0.0,226949.3,360,1.0,Female,Yes,1,Not Graduate,No,Rural,Rejected
+4333.94,1786.31,225428.57,240,1.0,Female,No,1,Graduate,Yes,Semiurban,Approved
+4417.29,0.0,180828.82,300,,Female,No,2,Graduate,No,Urban,Rejected
+2422.19,5141.64,300357.26,360,1.0,Female,No,2,Not Graduate,No,Rural,Approved
+3539.74,0.0,134395.1,240,1.0,Male,No,2,Graduate,No,Urban,Approved
+3530.39,1006.65,270430.62,360,0.0,Female,Yes,0,Graduate,Yes,Urban,Rejected
+4690.05,3701.3,40692.1,240,1.0,Female,No,0,Graduate,No,Urban,Approved
+6502.27,0.0,241428.99,360,1.0,Male,Yes,2,Graduate,No,Urban,Approved
+2184.14,0.0,316511.12,120,1.0,Female,No,1,Graduate,No,Rural,Rejected
+3582.25,0.0,273672.66,120,,Female,Yes,1,Not Graduate,No,Rural,Rejected
+8393.15,4067.35,193058.75,360,1.0,Male,Yes,1,Not Graduate,No,Semiurban,Approved
+2580.91,1911.56,207283.35,360,0.0,Male,Yes,2,Graduate,No,Rural,Rejected
+2475.52,0.0,124693.44,360,1.0,Female,Yes,0,,No,Urban,Approved
+4260.84,4490.22,223204.54,360,0.0,Female,Yes,1,Not Graduate,No,Semiurban,Rejected
+5988.07,0.0,250659.41,240,1.0,Female,No,0,Graduate,No,Urban,Approved
+3850.88,0.0,319465.0,240,1.0,Male,Yes,0,Graduate,,Rural,Approved
+7741.49,0.0,166723.8,180,1.0,Female,No,1,Graduate,Yes,Semiurban,Rejected
+6027.58,0.0,36513.83,300,0.0,Male,Yes,1,Graduate,No,Rural,Rejected
+5979.93,0.0,197949.1,180,1.0,Male,Yes,0,Graduate,Yes,Semiurban,Approved
+5134.21,1133.13,53945.29,360,1.0,Male,No,2,Graduate,Yes,Semiurban,Approved
+13143.15,4671.43,91919.04,60,1.0,Female,No,2,Graduate,No,Rural,Approved
+3433.26,0.0,117291.53,180,1.0,Female,Yes,1,Graduate,No,Rural,Approved
+1323.63,1251.54,238771.02,180,1.0,Male,No,3+,Not Graduate,No,Urban,Rejected
+8957.57,1302.37,73510.05,180,1.0,Male,No,0,Graduate,No,Rural,Approved
+3003.16,3762.66,68057.39,180,0.0,Male,Yes,2,Graduate,No,Rural,Rejected
+4052.85,0.0,31579.2,360,1.0,Male,No,0,Graduate,No,Urban,Approved
+7662.26,0.0,281718.46,240,0.0,Male,No,0,Graduate,No,Rural,Rejected
+1637.3,0.0,227438.64,360,1.0,Female,No,0,Not Graduate,Yes,Urban,Rejected
+1971.65,2628.96,30063.83,360,0.0,Male,Yes,0,Not Graduate,No,Semiurban,Approved
+1638.15,2506.03,26544.28,360,0.0,Male,Yes,1,Graduate,Yes,Urban,Approved
+2512.69,0.0,186719.64,360,1.0,Male,Yes,0,Graduate,Yes,Urban,Rejected
+4831.96,1886.33,103325.39,240,1.0,Female,No,1,Graduate,Yes,Semiurban,Rejected
+5053.42,0.0,198211.36,180,0.0,Male,No,0,Graduate,No,Rural,Rejected
+4431.2,0.0,149250.46,240,0.0,Male,Yes,0,Graduate,No,Rural,Rejected
+1810.28,2319.1,296840.39,360,1.0,Female,Yes,3+,Graduate,No,Semiurban,Approved
+1125.12,3596.14,104918.32,360,1.0,Male,Yes,1,Graduate,No,Rural,Rejected
+3939.49,1099.87,223101.9,180,0.0,Male,Yes,3+,Graduate,No,Urban,Rejected
+2980.83,0.0,34324.4,300,1.0,Female,No,1,Graduate,Yes,Rural,Approved
+4882.8,0.0,306669.88,360,0.0,Female,Yes,0,Graduate,No,Urban,Rejected
+5552.68,2700.12,314188.76,360,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+4118.6,0.0,241200.54,360,1.0,Male,Yes,1,,No,Rural,Rejected
+5726.56,4327.39,158494.17,360,0.0,Male,Yes,0,Graduate,Yes,Urban,Rejected
+4322.04,2338.05,84438.02,360,,Female,No,2,Graduate,Yes,Semiurban,Rejected
+5069.18,0.0,263379.93,360,0.0,Female,No,1,Graduate,No,Rural,Rejected
+2634.7,3330.17,240378.94,180,0.0,Female,Yes,2,Graduate,Yes,Rural,Rejected
+3480.06,700.42,85030.12,120,1.0,Female,Yes,1,Not Graduate,No,Urban,Approved
+4248.37,0.0,154267.02,360,1.0,Female,Yes,1,Not Graduate,No,Semiurban,Approved
+5912.83,2186.22,157765.28,360,1.0,Female,Yes,0,Graduate,Yes,Urban,Approved
+3106.7,0.0,267575.99,240,1.0,Female,Yes,3+,Graduate,Yes,Semiurban,Rejected
+5045.33,1061.32,224521.09,360,1.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+3324.6,4200.97,212236.6,120,1.0,Female,No,0,Graduate,No,Urban,Approved
+3596.45,4935.06,214247.88,360,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+5941.07,702.44,99681.96,180,0.0,Male,Yes,1,Graduate,No,Semiurban,Rejected
+1330.99,3366.31,130256.8,360,1.0,Female,Yes,3+,Graduate,Yes,Semiurban,Approved
+1925.36,4113.68,31790.01,300,1.0,Male,No,3+,Graduate,No,Urban,Approved
+1744.88,0.0,255656.22,180,0.0,Male,Yes,2,Graduate,No,Urban,Rejected
+1111.19,4222.76,148765.46,60,1.0,Male,Yes,3+,Graduate,Yes,Semiurban,Rejected
+2671.83,3508.83,150347.98,360,1.0,Female,No,2,Graduate,No,Semiurban,Approved
+5694.18,4874.15,92097.59,180,1.0,Male,Yes,0,Graduate,No,Urban,Approved
+3291.21,5112.62,81247.04,120,0.0,Male,No,1,Graduate,No,Rural,Rejected
+4250.66,794.79,195522.22,360,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+6817.75,0.0,88231.01,240,1.0,Male,No,0,Graduate,No,Urban,Approved
+7736.26,3116.14,37391.07,240,1.0,Male,No,0,Graduate,Yes,Semiurban,Approved
+3689.91,0.0,249787.24,180,1.0,Male,Yes,0,Graduate,No,Urban,Rejected
+7843.19,0.0,131693.77,360,0.0,Female,No,3+,Not Graduate,No,Urban,Rejected
+4019.16,5143.18,132831.15,240,1.0,Male,Yes,3+,Graduate,No,Urban,Approved
+2455.73,674.66,148258.12,180,1.0,Female,No,0,Graduate,No,Urban,Approved
+2793.27,2681.54,264143.54,240,1.0,Female,No,2,,No,Semiurban,Approved
+1746.41,0.0,114892.74,180,1.0,Female,No,0,Not Graduate,Yes,Rural,Rejected
+2390.57,2089.95,246926.94,240,1.0,Female,No,0,Not Graduate,Yes,Urban,Rejected
+3166.09,0.0,301742.54,120,1.0,Female,Yes,0,Not Graduate,Yes,Urban,Rejected
+5859.97,0.0,217582.2,180,0.0,Female,Yes,0,Graduate,Yes,Urban,Rejected
+9528.17,0.0,148367.69,240,1.0,Male,Yes,0,Graduate,No,Urban,Approved
+1839.86,0.0,243832.5,360,0.0,Female,No,0,,No,Urban,Rejected
+4713.56,0.0,156285.01,120,1.0,Male,No,0,Graduate,No,Urban,Approved
+2205.06,4948.92,143157.04,180,1.0,Female,Yes,0,Graduate,No,Rural,Rejected
+4922.59,1822.72,176635.52,360,1.0,Female,Yes,3+,Graduate,No,Semiurban,Approved
+3570.73,2918.69,113952.15,360,,Female,Yes,0,Graduate,Yes,Semiurban,Approved
+1450.44,0.0,49483.57,360,1.0,Female,No,0,Not Graduate,No,Rural,Approved
+6260.39,0.0,143285.31,180,0.0,Male,No,1,Graduate,No,Urban,Rejected
+2777.62,0.0,55404.78,240,0.0,Male,Yes,0,Graduate,,Urban,Rejected
+2884.29,2911.1,141953.33,180,0.0,Female,Yes,1,Graduate,No,Semiurban,Rejected
+2171.19,0.0,186193.98,180,1.0,Male,Yes,0,,Yes,Semiurban,Rejected
+2706.01,1790.64,299074.78,240,1.0,Male,Yes,1,Not Graduate,No,Urban,Rejected
+4801.97,2920.91,28939.14,360,0.0,Male,No,1,Graduate,Yes,Semiurban,Rejected
+3462.34,0.0,205680.44,240,1.0,Female,Yes,1,Not Graduate,No,Urban,Approved
+4555.96,2661.96,156236.03,360,1.0,Male,Yes,1,,Yes,Urban,Approved
+4636.98,1885.64,24118.86,240,1.0,Female,Yes,1,Not Graduate,Yes,Semiurban,Approved
+7707.51,0.0,93363.55,240,0.0,Male,Yes,0,Not Graduate,Yes,Rural,Rejected
+3191.75,2393.49,53782.55,360,1.0,Male,No,0,Graduate,No,Rural,Approved
+1749.82,3041.33,83471.83,360,1.0,Male,Yes,1,Not Graduate,No,Rural,Approved
+6738.74,5092.02,100920.21,240,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+3210.92,1457.82,139194.51,360,0.0,Female,Yes,0,Graduate,No,Urban,Approved
+6910.06,0.0,177769.9,180,1.0,Female,No,1,Graduate,Yes,Urban,Approved
+4690.01,0.0,18298.98,120,1.0,Female,No,0,Not Graduate,No,Semiurban,Approved
+3570.63,2402.45,66884.55,360,1.0,Male,Yes,0,Not Graduate,Yes,Urban,Rejected
+4604.78,1520.84,46257.05,180,1.0,Female,Yes,1,Graduate,Yes,Urban,Rejected
+10764.8,3728.16,184001.37,240,1.0,Female,Yes,0,Not Graduate,No,Urban,Approved
+11508.02,,117380.61,300,0.0,Female,Yes,2,Graduate,Yes,Urban,Approved
+3971.0,0.0,183616.12,180,1.0,Female,Yes,3+,Graduate,Yes,Semiurban,Approved
+4166.79,0.0,84990.64,120,1.0,Female,No,3+,Graduate,No,Semiurban,Approved
+6771.02,2234.0,25317.26,240,1.0,Female,No,0,Not Graduate,No,Urban,Approved
+2445.0,2204.76,302292.8,360,0.0,Male,Yes,0,Graduate,No,Semiurban,Rejected
+4566.61,3897.06,50709.05,360,1.0,Male,Yes,1,Graduate,No,Rural,Approved
+3775.52,0.0,56311.34,240,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+4520.47,2261.97,62257.14,60,1.0,Female,Yes,1,Graduate,Yes,Urban,Approved
+2460.98,0.0,314345.51,360,1.0,Male,Yes,0,Graduate,Yes,Urban,Rejected
+1648.35,0.0,204533.39,120,1.0,Male,Yes,0,Not Graduate,No,Semiurban,Rejected
+1275.79,1583.62,202307.57,300,0.0,Female,No,0,Graduate,No,Urban,Rejected
+2117.07,4740.42,315982.86,360,1.0,Female,Yes,0,Not Graduate,No,Rural,Approved
+3001.6,2176.19,44708.51,240,1.0,Male,No,0,Graduate,No,Rural,Approved
+3276.75,779.31,312299.27,240,1.0,Female,Yes,3+,Not Graduate,Yes,Semiurban,Approved
+10686.46,2875.16,79611.97,120,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+6878.64,0.0,206167.59,60,1.0,Female,Yes,1,Graduate,No,Rural,Rejected
+2298.68,1696.95,144865.24,240,1.0,Female,No,3+,Graduate,Yes,Urban,Approved
+4602.18,4036.71,133953.45,360,0.0,Male,Yes,0,,No,Semiurban,Rejected
+3084.82,0.0,299235.49,180,1.0,Male,Yes,1,Graduate,Yes,Semiurban,Rejected
+3292.12,0.0,63066.77,360,1.0,Female,No,2,Not Graduate,No,Semiurban,Approved
+4222.67,4909.77,319114.84,360,1.0,Male,No,0,Graduate,No,Semiurban,Approved
+5314.32,0.0,132495.77,120,0.0,Male,No,1,Graduate,No,Semiurban,Approved
+3197.72,0.0,213930.02,180,1.0,Male,Yes,2,Graduate,No,Rural,Rejected
+6726.71,0.0,310307.83,240,1.0,Female,Yes,2,Not Graduate,No,Urban,Rejected
+2089.69,0.0,35395.52,360,0.0,Female,No,2,Graduate,Yes,Semiurban,Rejected
+3840.51,2171.08,296705.04,240,1.0,Male,Yes,3+,Graduate,No,Urban,Approved
+15165.33,0.0,189479.04,360,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+4308.01,2988.17,230727.86,360,1.0,Male,Yes,2,Graduate,Yes,Urban,Approved
+8181.28,0.0,63053.62,360,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+4017.86,0.0,179083.0,360,1.0,Female,No,1,Graduate,No,Urban,Approved
+5207.27,3420.3,221401.14,360,0.0,Female,No,2,Graduate,No,Semiurban,Rejected
+3714.15,664.97,155786.69,360,0.0,Male,Yes,2,Graduate,No,Semiurban,Rejected
+3497.08,0.0,64805.52,360,1.0,Male,No,2,Graduate,No,Rural,Approved
+2532.28,0.0,91723.96,360,1.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+4808.11,,276026.62,360,1.0,Male,Yes,1,Not Graduate,Yes,Urban,Approved
+2437.4,0.0,28410.24,360,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+5446.67,0.0,232076.35,300,0.0,Male,No,1,Graduate,Yes,Urban,Rejected
+6803.57,1859.97,319815.79,360,0.0,Male,Yes,2,Graduate,Yes,Semiurban,Rejected
+4648.32,750.93,20259.86,300,1.0,Female,Yes,2,Graduate,No,Rural,Approved
+3288.83,1885.03,66635.8,360,1.0,Male,No,0,Not Graduate,No,Urban,Approved
+4868.8,0.0,221591.58,240,1.0,Male,Yes,1,Graduate,No,Rural,Approved
+3249.98,2341.66,36117.23,360,1.0,Male,No,0,Graduate,Yes,Urban,Approved
+6284.49,0.0,196116.58,360,1.0,Male,Yes,0,Graduate,No,Rural,Approved
+1450.05,2159.44,224568.03,360,1.0,Male,Yes,0,Graduate,No,Rural,Approved
+3203.91,0.0,195620.2,180,1.0,Male,No,3+,Not Graduate,Yes,Rural,Approved
+1332.58,1012.76,128285.78,360,0.0,Male,Yes,0,Graduate,No,Rural,Rejected
+1733.01,715.94,228579.25,360,1.0,Female,Yes,3+,Graduate,Yes,Rural,Rejected
+7886.02,0.0,197476.92,360,1.0,Female,Yes,0,Not Graduate,No,Urban,Approved
+6151.48,4080.59,80706.43,360,1.0,Female,No,2,Not Graduate,No,Urban,Approved
+2614.1,0.0,188066.93,360,1.0,Male,No,1,Graduate,No,Semiurban,Approved
+1726.19,0.0,284335.98,360,1.0,Female,No,2,Graduate,No,Semiurban,Rejected
+795.36,0.0,219383.65,180,1.0,Male,Yes,1,Graduate,No,Semiurban,Rejected
+2869.66,,160481.04,360,0.0,Female,Yes,2,Not Graduate,No,Rural,Rejected
+13805.47,2047.08,115118.4,180,1.0,Male,Yes,3+,Graduate,No,Urban,Approved
+4819.8,0.0,43937.64,360,1.0,Female,Yes,1,Graduate,Yes,Rural,Approved
+2845.31,0.0,91877.39,360,0.0,Male,No,0,Not Graduate,Yes,Semiurban,Rejected
+4897.56,,21378.4,300,1.0,Male,Yes,0,Graduate,No,Urban,Approved
+1673.53,4719.32,315961.03,180,0.0,Male,Yes,2,Graduate,Yes,Rural,Rejected
+3269.59,0.0,85189.64,180,0.0,Female,Yes,1,Graduate,Yes,Urban,Approved
+4034.84,4127.63,264092.53,360,1.0,Male,Yes,1,Not Graduate,Yes,Semiurban,Approved
+3656.88,0.0,68930.75,300,1.0,Male,Yes,1,Graduate,No,Rural,Approved
+5820.42,0.0,103647.55,120,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+4594.71,0.0,144319.75,360,1.0,Male,Yes,2,Graduate,No,Urban,Approved
+5454.59,1033.97,115970.51,180,1.0,Male,Yes,2,Not Graduate,No,Urban,Approved
+2657.56,5173.64,259101.95,360,0.0,Male,Yes,2,Not Graduate,No,Urban,Rejected
+6160.06,4142.42,307223.41,240,1.0,Male,No,2,Graduate,No,Urban,Approved
+9075.53,1029.05,282338.93,180,1.0,Male,Yes,3+,Graduate,No,Rural,Approved
+2288.89,0.0,64380.52,120,0.0,Male,Yes,1,Not Graduate,No,Rural,Rejected
+2391.13,0.0,252559.98,300,1.0,Female,Yes,3+,Not Graduate,No,Semiurban,Rejected
+7769.54,4142.86,62679.97,300,0.0,Male,Yes,0,Graduate,No,Semiurban,Rejected
+3458.49,4276.43,293841.09,360,1.0,Female,No,1,Graduate,No,Urban,Approved
+8054.82,0.0,174399.33,300,0.0,Male,Yes,2,Not Graduate,No,Urban,Rejected
+3027.39,4541.56,119587.09,240,1.0,Female,No,1,Not Graduate,Yes,Urban,Approved
+8276.49,0.0,65421.7,180,1.0,Male,No,0,Graduate,No,Rural,Rejected
+4103.88,1869.25,21566.34,180,1.0,Male,Yes,1,Graduate,Yes,Urban,Approved
+4389.02,0.0,92879.99,360,0.0,Male,Yes,0,Graduate,Yes,Urban,Rejected
+8771.83,795.31,294034.06,180,1.0,Female,Yes,3+,Not Graduate,No,Rural,Approved
+3159.79,0.0,258773.18,360,1.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+2324.37,1819.98,310877.7,240,,Female,Yes,0,Graduate,No,Semiurban,Rejected
+3017.73,,48429.98,120,1.0,Female,Yes,1,Graduate,,Urban,Approved
+4864.59,2555.47,196837.98,180,1.0,Male,Yes,0,Not Graduate,No,Urban,Approved
+1669.28,4645.29,95659.44,120,0.0,Female,Yes,0,Not Graduate,No,Semiurban,Rejected
+5366.12,0.0,181968.4,360,1.0,Female,No,1,Not Graduate,No,Semiurban,Approved
+2876.85,4711.22,114777.38,300,1.0,Female,No,1,Graduate,No,Semiurban,Approved
+7032.8,2559.47,103606.6,240,0.0,Female,No,0,Not Graduate,No,Urban,Rejected
+1076.04,2107.92,191301.28,360,1.0,Male,Yes,1,Not Graduate,No,Urban,Rejected
+2522.79,2911.56,73362.08,360,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+1565.83,,159678.3,360,1.0,Male,No,2,Graduate,No,Semiurban,Approved
+2470.31,0.0,214545.3,360,1.0,Female,No,0,Not Graduate,No,Urban,Approved
+4364.52,2912.32,56710.99,360,0.0,Female,Yes,0,Graduate,No,Urban,Rejected
+3480.77,0.0,299039.47,360,1.0,Female,Yes,3+,Graduate,No,Semiurban,Rejected
+3346.63,0.0,170728.86,360,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+3517.94,3202.64,265497.45,300,0.0,Male,No,0,Graduate,No,Urban,Rejected
+4263.29,0.0,215479.44,360,1.0,Male,Yes,2,Graduate,No,Rural,Rejected
+2242.79,0.0,232420.28,120,0.0,Male,Yes,0,Not Graduate,No,Semiurban,Rejected
+5567.1,0.0,234271.54,360,1.0,Female,Yes,2,Graduate,No,Semiurban,Approved
+5438.25,5060.95,282280.17,360,0.0,Female,Yes,2,Not Graduate,No,Semiurban,Rejected
+4694.14,4209.72,203308.84,120,1.0,Female,Yes,3+,Graduate,Yes,Urban,Approved
+5140.79,5050.93,102021.58,360,1.0,Female,No,3+,Graduate,No,Semiurban,Approved
+4478.76,0.0,48051.91,360,1.0,Male,Yes,0,Not Graduate,No,Semiurban,Approved
+11255.24,0.0,201087.69,180,1.0,Female,Yes,2,Graduate,No,Urban,Approved
+3654.96,0.0,38038.55,300,1.0,Female,Yes,0,Graduate,Yes,Semiurban,Approved
+3252.72,1381.9,90870.62,360,1.0,Female,No,1,Not Graduate,No,Urban,Approved
+2567.35,0.0,36333.57,360,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+2214.76,3287.15,183764.05,180,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+1979.16,0.0,66422.11,240,1.0,Male,Yes,0,Graduate,No,Urban,Approved
+2389.73,4876.16,202343.01,360,1.0,Female,No,0,,No,Semiurban,Approved
+3686.89,0.0,256841.27,180,0.0,Male,No,0,Graduate,No,Semiurban,Rejected
+4569.58,0.0,266207.98,240,1.0,Female,No,0,Graduate,Yes,Rural,Rejected
+3932.79,3916.79,111482.14,60,1.0,Female,Yes,3+,Not Graduate,Yes,Semiurban,Approved
+2551.07,870.7,183784.27,180,0.0,Female,No,1,Graduate,No,Urban,Rejected
+6167.8,0.0,188029.25,360,,Male,No,2,Graduate,Yes,Semiurban,Rejected
+5664.02,4353.15,160811.93,360,1.0,Male,Yes,2,Graduate,No,Rural,Approved
+3517.08,0.0,215844.4,360,1.0,Female,Yes,2,Graduate,No,Urban,Approved
+2707.97,0.0,81446.31,360,0.0,Female,Yes,0,Graduate,Yes,Rural,Rejected
+5118.76,0.0,313731.46,240,1.0,Male,Yes,2,Graduate,No,Semiurban,Rejected
+4228.6,3649.45,47620.11,180,1.0,Female,Yes,2,Graduate,No,Urban,Approved
+1776.66,1145.92,268424.78,60,1.0,Female,Yes,2,Graduate,No,Rural,Rejected
+3692.17,,197416.99,180,1.0,Female,No,3+,Graduate,No,Urban,Approved
+4397.88,0.0,91946.13,240,1.0,Male,Yes,1,Graduate,No,Semiurban,Approved
+2375.97,1455.48,243193.85,180,1.0,Female,Yes,1,Graduate,Yes,Urban,Rejected
+4232.79,2087.02,43513.23,60,1.0,Male,Yes,3+,Graduate,Yes,Semiurban,Approved
+1770.37,3303.12,251874.19,180,1.0,Female,Yes,1,Not Graduate,No,Urban,Approved
+7771.19,0.0,196175.54,360,1.0,Female,Yes,2,Graduate,No,Urban,Approved
+7416.14,2636.22,51446.6,360,0.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+3348.16,0.0,42010.68,360,0.0,Female,Yes,0,Graduate,Yes,Rural,Rejected
+4640.75,0.0,244752.57,360,1.0,Male,No,1,Not Graduate,No,Urban,Approved
+1067.14,0.0,106466.64,360,1.0,Female,Yes,0,Graduate,,Semiurban,Rejected
+2073.8,0.0,286569.16,180,1.0,Male,No,3+,Not Graduate,No,Rural,Rejected
+3275.73,0.0,248146.05,360,1.0,Female,No,0,Graduate,No,Urban,Approved
+2168.45,0.0,228853.45,120,1.0,Male,Yes,2,Graduate,No,Semiurban,Rejected
+5589.42,4842.85,102139.03,240,1.0,Male,Yes,0,Not Graduate,No,Rural,Approved
+11032.13,0.0,232101.24,240,1.0,Male,Yes,3+,Graduate,Yes,Rural,Approved
+2051.64,,304340.6,240,0.0,Female,No,0,Graduate,No,Urban,Rejected
+2455.64,0.0,45651.07,180,1.0,Male,Yes,0,Not Graduate,No,Rural,Approved
+4336.35,0.0,116501.12,360,1.0,Male,Yes,0,Graduate,Yes,Rural,Approved
+8990.21,0.0,88871.02,360,1.0,Male,No,1,Graduate,No,Semiurban,Rejected
+2002.48,0.0,136761.54,360,0.0,Male,Yes,3+,Graduate,No,Semiurban,Rejected
+4367.69,2681.27,242184.46,360,1.0,Male,No,3+,Graduate,Yes,Rural,Approved
+10049.6,2514.34,161221.26,300,1.0,Female,Yes,0,Not Graduate,No,Rural,Approved
+1594.9,1474.21,190360.64,60,1.0,Female,No,1,Graduate,Yes,Rural,Rejected
+1941.15,4732.53,112874.78,360,0.0,Female,Yes,0,Not Graduate,No,Rural,Rejected
+3057.91,1765.21,60669.36,300,1.0,Female,Yes,1,Graduate,Yes,Semiurban,Approved
+2904.71,3844.25,98613.96,180,1.0,Female,No,1,Not Graduate,No,Urban,Approved
+5888.04,908.92,277623.45,240,1.0,Male,Yes,0,Not Graduate,No,Urban,Approved
+4350.65,0.0,199929.92,360,0.0,Female,No,1,Not Graduate,No,Rural,Rejected
+1494.09,3607.16,132152.58,360,0.0,Male,No,3+,Graduate,No,Semiurban,Rejected
+5029.96,0.0,256551.61,300,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+2818.34,0.0,37466.14,360,1.0,Male,Yes,0,Graduate,No,Urban,Approved
+7521.02,1032.5,94675.11,240,1.0,Female,No,0,Graduate,No,Urban,Approved
+2744.57,4969.32,87491.15,300,1.0,Male,Yes,0,Graduate,Yes,Semiurban,Approved
+2731.47,4043.17,315580.1,240,1.0,Male,No,0,Not Graduate,No,Semiurban,Rejected
+5099.0,0.0,231241.77,240,0.0,Male,Yes,1,Graduate,Yes,Semiurban,Rejected
+5735.05,1227.76,204571.35,360,1.0,Female,No,0,Not Graduate,No,Rural,Approved
+4853.68,2072.74,19505.46,60,1.0,Male,Yes,2,Graduate,No,Semiurban,Approved
+1566.55,0.0,73661.62,360,0.0,Male,No,2,Not Graduate,No,Rural,Rejected
+5090.64,0.0,209933.47,240,0.0,Male,Yes,3+,Graduate,No,Rural,Rejected
+2212.36,1965.6,132675.24,360,0.0,Female,Yes,1,Graduate,No,Urban,Rejected
+4335.95,878.9,297132.68,360,0.0,Female,No,0,Not Graduate,Yes,Urban,Rejected
+1799.78,2296.84,248946.71,360,1.0,Female,No,0,Not Graduate,Yes,Rural,Rejected
+4849.11,1770.93,153109.99,360,0.0,Female,Yes,0,Not Graduate,No,Semiurban,Rejected
+2496.14,2375.24,244353.52,360,1.0,Male,No,3+,Not Graduate,Yes,Rural,Rejected
+1939.54,0.0,312572.11,300,1.0,Female,Yes,3+,Graduate,Yes,Semiurban,Rejected
+5587.71,0.0,157216.21,360,1.0,Male,Yes,0,Not Graduate,No,Urban,Approved
+4350.61,,212042.82,360,0.0,Male,Yes,0,Graduate,No,Rural,Rejected
+2764.44,0.0,295436.71,180,1.0,Male,Yes,1,Graduate,No,Rural,Rejected
+8259.55,2188.76,93099.75,240,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+3030.41,0.0,285740.49,240,1.0,Male,Yes,3+,Graduate,No,Semiurban,Rejected
+3893.32,0.0,47458.5,180,1.0,Female,Yes,0,Graduate,Yes,Urban,Approved
+4413.95,0.0,213831.35,240,0.0,Female,No,0,Not Graduate,No,Rural,Rejected
+2756.11,0.0,254417.12,240,0.0,Male,No,0,Graduate,No,Semiurban,Rejected
+4913.31,5044.53,203611.08,360,1.0,Male,No,0,Not Graduate,No,Rural,Approved
+2884.97,3001.11,167651.51,180,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+3077.37,4785.07,204438.82,360,1.0,Male,No,2,Graduate,No,Rural,Approved
+7880.93,4250.89,63802.44,240,0.0,Female,Yes,0,Graduate,Yes,Rural,Approved
+2205.01,0.0,83102.35,360,,Male,No,1,Graduate,No,Rural,Approved
+1065.53,2573.85,99509.6,120,0.0,Female,Yes,0,,No,Semiurban,Rejected
+8989.36,0.0,198529.36,300,1.0,Female,Yes,0,Graduate,No,Rural,Approved
+14781.68,0.0,151454.12,60,1.0,Male,Yes,0,Graduate,Yes,Semiurban,Approved
+3087.78,,91831.7,360,1.0,Male,No,0,Graduate,Yes,Rural,Approved
+1371.25,1026.81,284608.42,240,0.0,Female,No,0,Not Graduate,No,Rural,Rejected
+3246.86,0.0,130924.4,360,1.0,Male,No,0,Graduate,No,Rural,Rejected
+3288.88,0.0,152701.58,240,1.0,Male,No,2,Not Graduate,No,Rural,Approved
+3461.1,4056.99,141729.73,360,1.0,Male,No,2,Not Graduate,Yes,Urban,Approved
+2121.55,2935.31,72946.77,180,1.0,Male,Yes,3+,Graduate,No,Rural,Approved
+5203.92,0.0,238951.36,360,1.0,Female,No,0,Graduate,Yes,Rural,Approved
+5054.27,4599.06,153434.4,300,1.0,Male,Yes,2,Graduate,Yes,Semiurban,Approved
+1733.62,0.0,22909.65,240,0.0,Male,Yes,1,Graduate,No,Semiurban,Rejected
+5544.57,3417.22,309132.14,180,1.0,Female,Yes,0,Graduate,Yes,Rural,Approved
+11360.79,4071.02,264360.61,120,0.0,Female,No,0,Not Graduate,No,Semiurban,Approved
+4192.86,,236514.92,120,1.0,Female,No,1,Graduate,Yes,Semiurban,Approved
+3201.0,4597.65,280465.74,360,1.0,Female,Yes,2,Graduate,Yes,Rural,Approved
+3550.13,767.58,291855.79,240,0.0,Male,Yes,1,Graduate,No,Rural,Rejected
+5303.31,3158.48,119921.89,60,0.0,Female,Yes,0,Graduate,Yes,Urban,Rejected
+1529.57,0.0,202509.52,360,0.0,Male,No,3+,Graduate,No,Rural,Rejected
+4176.07,4557.59,201859.96,60,0.0,Female,No,0,Graduate,No,Urban,Rejected
+3112.1,3582.63,98724.5,240,1.0,Female,Yes,3+,Not Graduate,Yes,Urban,Approved
+10191.89,2533.02,85029.58,360,,Female,Yes,2,Graduate,No,Rural,Approved
+3490.11,1465.28,52399.99,360,0.0,Female,Yes,2,Graduate,No,Urban,Rejected
+9264.83,0.0,217112.89,360,1.0,Male,Yes,2,Graduate,No,Urban,Rejected
+2132.43,3837.38,253837.54,300,1.0,Male,Yes,0,Graduate,Yes,Urban,Approved
+5225.19,0.0,247807.8,360,1.0,Female,Yes,1,Not Graduate,No,Semiurban,Approved
+4533.65,1030.48,113515.16,60,1.0,Male,Yes,2,Not Graduate,No,Urban,Approved
+2414.88,0.0,79988.47,360,1.0,Female,Yes,2,Not Graduate,No,Urban,Approved
+4204.96,4115.37,154991.48,360,1.0,Female,No,0,Graduate,No,Semiurban,Approved
+7278.17,0.0,183137.66,360,1.0,Male,Yes,0,Graduate,No,Urban,Rejected
+3224.04,1944.63,295564.31,180,1.0,Female,Yes,0,Not Graduate,No,Urban,Rejected
+1561.28,5071.52,282196.59,180,1.0,Female,No,1,Graduate,No,Rural,Approved
+3792.16,0.0,294649.62,360,0.0,Female,No,1,Graduate,No,Semiurban,Rejected
+2372.54,0.0,274779.24,300,1.0,Male,Yes,2,Graduate,No,Urban,Rejected
+3192.5,0.0,309303.52,300,1.0,Male,Yes,2,Graduate,No,Urban,Rejected
+3665.64,1975.98,158581.0,360,1.0,Male,No,1,Not Graduate,Yes,Rural,Approved
+1549.99,0.0,32337.0,360,,Male,Yes,0,Graduate,No,Urban,Approved
+1625.71,0.0,43235.73,240,1.0,Male,No,1,Not Graduate,No,Urban,Approved
+4941.85,0.0,135863.39,240,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+2901.43,622.34,95821.5,180,1.0,Male,Yes,0,Graduate,No,Rural,Rejected
+983.08,0.0,69322.06,180,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+5802.05,0.0,305867.54,180,1.0,Female,No,0,Graduate,Yes,Rural,Rejected
+4422.04,0.0,77016.72,360,1.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+2621.88,2769.54,307732.54,360,1.0,Female,Yes,1,Graduate,No,Urban,Approved
+1904.7,2835.81,247773.33,300,1.0,Male,Yes,0,Graduate,Yes,Rural,Approved
+5960.91,0.0,211565.59,240,0.0,Female,No,0,Not Graduate,No,Rural,Rejected
+4606.19,2093.36,222157.73,360,1.0,Female,Yes,0,Graduate,,Rural,Approved
+13531.55,0.0,118105.25,360,0.0,Male,No,1,Graduate,No,Urban,Rejected
+4782.41,2583.29,213220.97,360,,Female,No,1,Graduate,No,Semiurban,Approved
+4700.77,3351.57,74381.02,300,0.0,Male,Yes,0,Not Graduate,No,Semiurban,Rejected
+3503.54,0.0,301187.04,360,1.0,Female,No,0,Graduate,No,Urban,Approved
+5901.08,5177.04,109141.59,300,1.0,Male,No,3+,,Yes,Rural,Approved
+5331.01,962.22,95066.33,300,0.0,Female,Yes,1,Graduate,No,Urban,Rejected
+7430.99,0.0,232771.17,360,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+2903.58,0.0,216247.51,240,1.0,Female,Yes,1,Graduate,Yes,Rural,Rejected
+3038.85,0.0,154292.27,240,1.0,Female,Yes,2,Graduate,No,Semiurban,Approved
+2969.28,1922.38,208998.76,240,0.0,Male,Yes,3+,Not Graduate,No,Rural,Rejected
+5820.4,1402.87,66166.91,300,1.0,Male,No,0,Graduate,No,Semiurban,Approved
+8468.75,0.0,221345.15,300,1.0,Male,No,2,Graduate,No,Rural,Approved
+3001.34,2882.93,99724.43,360,1.0,Male,Yes,0,Graduate,No,Urban,Approved
+3056.02,4828.53,100396.46,240,0.0,Male,Yes,1,Graduate,No,Rural,Approved
+4520.88,749.93,66978.34,180,1.0,Female,Yes,0,Graduate,Yes,Urban,Approved
+3360.17,0.0,118377.89,360,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+6339.71,0.0,118037.82,240,0.0,Female,Yes,3+,Graduate,No,Semiurban,Approved
+1160.44,0.0,155162.06,360,1.0,Female,No,2,Graduate,Yes,Semiurban,Rejected
+2469.69,0.0,75506.69,180,0.0,Female,No,0,Graduate,No,Urban,Rejected
+2528.34,5135.74,76288.28,360,1.0,Male,Yes,3+,Not Graduate,Yes,Rural,Approved
+1119.02,1561.21,181605.05,300,1.0,Female,No,0,Graduate,No,Urban,Approved
+2296.8,1511.34,56920.98,360,,Male,Yes,1,Graduate,No,Rural,Approved
+2356.58,3238.75,226046.9,180,1.0,Female,No,2,Not Graduate,No,Urban,Rejected
+3440.65,2890.79,303072.03,360,1.0,Male,Yes,0,Not Graduate,No,Urban,Approved
+6904.11,3270.02,146892.28,300,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+3361.42,2332.98,290133.8,360,1.0,Male,Yes,1,Not Graduate,No,Semiurban,Approved
+2216.46,0.0,47691.61,300,1.0,Female,Yes,0,Graduate,No,Semiurban,Rejected
+3713.81,0.0,30973.2,60,0.0,Female,Yes,0,Graduate,No,Urban,Rejected
+6674.58,2570.61,235853.4,300,1.0,Female,Yes,0,Not Graduate,No,Semiurban,Rejected
+2281.85,3772.9,247828.52,180,1.0,Male,No,1,Not Graduate,No,Rural,Approved
+2362.31,0.0,272603.59,240,1.0,Female,No,0,Graduate,No,Urban,Rejected
+5146.29,0.0,35158.94,360,0.0,Female,Yes,0,Graduate,No,Urban,Approved
+3403.59,0.0,252625.93,300,0.0,Male,Yes,2,Graduate,Yes,Semiurban,Rejected
+5394.67,918.04,131714.7,120,1.0,Female,No,0,Graduate,No,Rural,Approved
+3800.04,0.0,109607.97,120,0.0,Female,Yes,0,Not Graduate,No,Urban,Rejected
+5551.82,918.04,70253.22,180,0.0,Male,Yes,2,Graduate,No,Urban,Rejected
+2211.46,3948.25,318796.76,180,1.0,Male,No,2,Graduate,No,Urban,Approved
+3803.19,1925.08,37226.4,360,1.0,Male,Yes,0,Graduate,No,Semiurban,Approved
+3423.21,3929.23,267756.42,180,0.0,Female,No,2,Graduate,No,Urban,Rejected
+2009.37,905.43,211127.32,360,0.0,Female,Yes,2,Graduate,,Semiurban,Rejected
+1671.3,4567.72,239994.29,180,1.0,Female,Yes,0,Not Graduate,No,Semiurban,Approved
+5505.19,0.0,232938.57,120,1.0,Female,Yes,2,Graduate,No,Urban,Rejected
+3177.96,1009.07,277247.21,360,1.0,Male,Yes,2,Graduate,No,Rural,Approved
+2226.51,709.28,73505.21,240,0.0,Male,Yes,1,Graduate,No,Rural,Rejected
+3637.4,858.93,18249.03,240,0.0,Male,No,1,Graduate,No,Rural,Rejected
+6959.41,4526.7,198755.6,360,1.0,Male,No,2,Graduate,No,Rural,Approved
+1142.77,1679.64,124865.31,360,1.0,Female,No,3+,Graduate,No,Urban,Approved
+1731.57,3122.06,55383.77,360,1.0,Female,Yes,1,Graduate,No,Rural,Approved
+2346.95,2560.72,74213.9,120,1.0,Female,Yes,2,Graduate,No,Urban,Approved
+8303.44,0.0,118188.29,360,1.0,Female,No,2,Not Graduate,No,Urban,Approved
+4446.05,0.0,39210.48,360,1.0,Male,No,2,Graduate,No,Semiurban,Approved
+5748.41,2903.04,35187.79,360,1.0,Female,Yes,3+,Graduate,No,Rural,Approved
+2091.66,0.0,294639.93,120,0.0,Male,No,0,Graduate,No,Semiurban,Rejected
+2114.65,0.0,112255.03,240,1.0,Female,Yes,0,Graduate,No,Semiurban,Approved
+4852.95,0.0,314633.67,240,1.0,Female,Yes,1,Not Graduate,No,Semiurban,Rejected
+3947.69,0.0,309238.84,180,1.0,Female,No,1,,No,Semiurban,Approved
+5119.6,0.0,61056.53,360,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+3465.23,0.0,233907.14,180,1.0,Male,Yes,2,Graduate,Yes,Semiurban,Rejected
+4435.59,0.0,199443.08,240,1.0,Female,Yes,3+,Not Graduate,No,Semiurban,Approved
+4162.22,3751.99,226575.42,120,1.0,Female,No,0,Graduate,No,Semiurban,Approved
+5780.33,1811.26,47049.68,300,1.0,Female,Yes,2,Graduate,No,Urban,Approved
+5870.61,2525.44,74945.14,180,1.0,Male,No,0,Graduate,Yes,Urban,Approved
+1622.09,2286.27,41144.88,240,0.0,Male,Yes,1,Graduate,No,Urban,Approved
+1163.22,2998.64,200448.53,180,1.0,Female,Yes,0,Not Graduate,No,Semiurban,Approved
+6508.9,2726.25,315950.5,360,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+7183.16,0.0,220939.33,180,1.0,Female,Yes,1,Graduate,Yes,Urban,Approved
+2228.47,0.0,232649.98,300,0.0,Male,Yes,2,Graduate,No,Rural,Rejected
+1428.37,0.0,315344.68,180,1.0,Female,Yes,1,Not Graduate,No,Urban,Rejected
+4033.9,2279.22,222759.49,120,,Male,Yes,0,Graduate,No,Rural,Rejected
+6268.83,1289.73,30134.83,180,0.0,Female,Yes,0,Graduate,Yes,Urban,Rejected
+9924.14,0.0,279835.69,120,1.0,Male,No,0,Not Graduate,No,Rural,Approved
+5032.33,0.0,128132.84,180,0.0,Female,No,3+,Graduate,No,Urban,Rejected
+3143.18,0.0,19317.81,300,1.0,Male,Yes,3+,Not Graduate,No,Semiurban,Approved
+2384.25,0.0,171184.72,360,1.0,Female,Yes,0,Not Graduate,No,Rural,Approved
+3850.93,0.0,300978.53,120,1.0,Male,Yes,0,Graduate,No,Urban,Rejected
+3266.22,1692.66,95713.87,300,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+2235.04,1292.76,166436.98,360,1.0,Female,Yes,1,Graduate,No,Rural,Approved
+11337.15,639.64,70480.62,180,1.0,Female,Yes,0,Graduate,No,Urban,Approved
+9858.99,0.0,35423.19,240,1.0,Male,Yes,0,Graduate,Yes,Urban,Approved
+6989.09,0.0,42324.57,120,1.0,Male,Yes,0,Not Graduate,No,Rural,Approved
+2349.48,5141.06,237557.29,180,1.0,Male,No,0,Graduate,No,Urban,Approved
+6021.91,0.0,278950.49,300,1.0,Male,Yes,0,Graduate,Yes,Rural,Approved
+5372.25,4041.13,61276.25,360,0.0,Female,Yes,0,Graduate,No,Rural,Rejected
+4839.42,,105072.21,360,1.0,Female,Yes,1,,Yes,Rural,Approved
+7422.88,3323.81,76898.9,360,1.0,Male,No,1,Graduate,Yes,Rural,Approved
+5360.15,4077.95,26110.44,240,0.0,Female,Yes,0,Not Graduate,No,Rural,Approved
+5665.82,0.0,185136.27,120,1.0,Male,Yes,1,Graduate,No,Semiurban,Rejected
+5364.51,650.3,229376.5,240,1.0,Female,No,1,Graduate,Yes,Rural,Approved
+4585.34,0.0,213659.0,180,1.0,Male,Yes,2,Graduate,No,Semiurban,Approved
+1487.25,0.0,135192.17,60,0.0,Female,Yes,3+,Graduate,No,Semiurban,Rejected
+4001.08,,185613.09,120,0.0,Male,Yes,0,Not Graduate,No,Urban,Rejected
+2850.41,1471.66,46417.99,300,1.0,Male,No,2,Graduate,Yes,Rural,Approved
+1942.41,0.0,64599.72,240,1.0,Male,No,2,Graduate,No,Semiurban,Approved
+9333.48,3154.18,299401.98,180,1.0,Male,No,2,Graduate,No,Rural,Approved
+9569.8,0.0,247975.34,360,1.0,Female,Yes,0,Graduate,Yes,Semiurban,Approved
+7866.64,4244.45,296667.21,240,0.0,Female,Yes,0,Graduate,Yes,Urban,Rejected
+4382.01,0.0,294837.45,360,0.0,Male,Yes,0,Not Graduate,Yes,Semiurban,Rejected
+7830.89,0.0,214116.57,180,1.0,Male,No,3+,Not Graduate,No,Rural,Approved
+3852.16,4306.55,298328.07,300,1.0,Female,No,1,Graduate,Yes,Semiurban,Approved
+4261.95,1737.43,143844.64,180,1.0,Female,No,0,Graduate,No,Rural,Rejected
+2144.07,0.0,19092.11,300,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+4723.97,1968.1,36896.48,180,1.0,Female,No,0,Graduate,Yes,Rural,Approved
+3952.11,2117.01,51065.17,180,1.0,Female,No,0,Graduate,No,Rural,Rejected
+1919.07,4886.94,46796.74,360,1.0,Female,No,1,Graduate,Yes,Rural,Approved
+3725.16,3736.72,124214.12,180,1.0,Female,No,1,Graduate,Yes,Urban,Rejected
+3669.25,0.0,229783.78,180,1.0,Male,Yes,2,Graduate,No,Semiurban,Rejected
+9923.96,0.0,256775.94,360,1.0,Male,Yes,1,Graduate,No,Urban,Approved
+6148.31,3072.21,196244.41,120,1.0,Female,Yes,1,Graduate,No,Semiurban,Approved
+3850.92,0.0,62223.72,360,1.0,Male,Yes,2,Graduate,No,Rural,Approved
+4367.11,1093.52,243866.28,300,0.0,Male,No,0,Graduate,Yes,Semiurban,Rejected
+3918.38,1688.83,125150.18,180,0.0,Female,No,2,Graduate,No,Rural,Approved
+3437.35,0.0,21923.99,300,1.0,Male,No,2,Not Graduate,Yes,Rural,Approved
+2156.65,0.0,102737.76,120,1.0,Female,Yes,0,Graduate,No,Rural,Rejected
+3533.14,4884.72,117841.37,360,1.0,Male,Yes,0,Graduate,No,Rural,Approved
+2577.48,1169.68,100822.15,180,1.0,Male,Yes,0,Graduate,,Semiurban,Approved
+1973.04,1510.71,263184.79,180,1.0,Male,No,0,Graduate,No,Rural,Rejected
+5018.81,,247497.77,240,1.0,Male,No,1,Graduate,No,Urban,Rejected
+4709.66,1045.9,228056.71,360,1.0,Female,No,0,Graduate,No,Rural,Approved
+1484.81,4741.28,59979.53,360,1.0,Female,Yes,1,Graduate,Yes,Semiurban,Approved
+3586.66,0.0,261965.84,360,1.0,Female,Yes,0,Graduate,Yes,Rural,Rejected
+6488.08,915.66,222507.14,360,0.0,Female,No,0,Not Graduate,Yes,Semiurban,Rejected
+6710.23,3782.5,76840.98,360,1.0,Male,Yes,0,Not Graduate,No,Urban,Approved
+6592.54,3505.49,213724.37,300,1.0,Male,No,0,Graduate,No,Rural,Approved
+3907.39,4083.81,164020.52,360,1.0,Female,Yes,3+,Graduate,Yes,Rural,Approved

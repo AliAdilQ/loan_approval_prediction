@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "model_name": "Logistic Regression",
+  "random_seed": 42,
+  "dataset_records": 800,
+  "training_records": 640,
+  "test_records": 160,
+  "dataset_sha256": "0ce7932973f9be134e077e2a14ed7ec6122ae4c677dc2ff2e6f3534624ceccb7",
+  "features": [
+    "applicant_income",
+    "coapplicant_income",
+    "loan_amount",
+    "loan_amount_term",
+    "credit_history",
+    "gender",
+    "married",
+    "dependents",
+    "education",
+    "self_employed",
+    "property_area"
+  ],
+  "metrics": {
+    "accuracy": 0.81875,
+    "precision": 0.8055555555555556,
+    "recall": 0.9157894736842105,
+    "f1": 0.8571428571428571,
+    "confusion_matrix": [
+      [
+        44,
+        21
+      ],
+      [
+        8,
+        87
+      ]
+    ]
+  },
+  "comparison": {
+    "Logistic Regression": {
+      "cv_f1_mean": 0.8678798104270238,
+      "cv_f1_std": 0.03028762416781458
+    },
+    "Random Forest": {
+      "cv_f1_mean": 0.8647722384311674,
+      "cv_f1_std": 0.03151950413778987
+    },
+    "Decision Tree": {
+      "cv_f1_mean": 0.8338869581777907,
+      "cv_f1_std": 0.023516521094108723
+    }
+  },
+  "confusion_matrix_labels": [
+    "Rejected",
+    "Approved"
+  ],
+  "versions": {
+    "python": "3.12.14",
+    "scikit_learn": "1.7.2",
+    "pandas": "2.3.3",
+    "joblib": "1.5.2"
+  }
+}

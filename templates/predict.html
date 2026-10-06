@@ -1,0 +1,87 @@
+{% extends 'base.html' %}
+{% block title %}Check loan eligibility · LoanPredict AI{% endblock %}
+{% block content %}
+<div class="container page-shell">
+<div class="breadcrumb-line">
+<a href="{% url 'predictor:home' %}">Home</a>
+<i class="bi bi-chevron-right" aria-hidden="true">
+</i>
+<span>Loan prediction</span>
+</div>
+<div class="page-heading">
+<div class="eyebrow">A LITTLE INFORMATION GOES A LONG WAY</div>
+<h1>Let’s look at your <span class="serif-accent">possibilities.</span>
+</h1>
+<p>Build your profile below. We’ll take care of the analysis.</p>
+</div>
+<div class="row g-4 g-xl-5">
+<div class="col-lg-8">
+<form method="post" class="prediction-form" id="prediction-form">{% csrf_token %}
+  {% if form.errors %}<div class="alert alert-danger form-error-summary" role="alert" tabindex="-1">
+<strong>Please review your application.</strong>{% for error in form.non_field_errors %}<p class="mb-0 mt-2">{{ error }}</p>{% endfor %}{% if form.errors and not form.non_field_errors %}<p class="mb-0 mt-1">The highlighted fields need your attention.</p>{% endif %}</div>{% endif %}
+  {% for section in form.sections %}<fieldset class="form-card">
+<legend>
+<span class="section-index">{{ section.number }}</span>
+<span>{{ section.title }}</span>
+</legend>
+<p class="fieldset-description">{{ section.description }}</p>
+<div class="row g-4">{% for field in section.fields %}<div class="col-md-6">
+<label class="form-label" for="{{ field.id_for_label }}">{{ field.label }} <span class="required-mark" aria-label="required">*</span>
+</label>{{ field }}<div id="{{ field.name }}_help" class="field-help">{{ field.help_text }}</div>
+<div id="{{ field.name }}_errors">{% for error in field.errors %}<div class="invalid-feedback d-block">{{ error }}</div>{% endfor %}</div>
+</div>{% endfor %}</div>
+</fieldset>{% endfor %}
+  <div class="submission-card">
+<div class="privacy-note">
+<i class="bi bi-shield-lock" aria-hidden="true">
+</i>
+<p>Your application is saved for this demonstration and is accessible to site administrators. Use fictional details.</p>
+</div>
+<button type="submit" class="btn btn-dark-green btn-lg" id="predict-button">
+<span>Generate prediction</span>
+<i class="bi bi-arrow-up-right" aria-hidden="true">
+</i>
+</button>
+<p class="submit-note">By continuing, you acknowledge this is an educational estimate.</p>
+</div>
+</form>
+</div>
+<aside class="col-lg-4">
+<div class="prediction-aside">
+<div class="aside-visual">
+<i class="bi bi-intersect" aria-hidden="true">
+</i>
+<span>YOUR PROFILE, IN PERSPECTIVE</span>
+</div>
+<h2>Clarity starts<br>with good information.</h2>
+<p>A few details help our model understand your application.</p>
+<ol class="aside-checklist">
+<li>
+<i class="bi bi-check2-circle" aria-hidden="true">
+</i>
+<span>Use monthly income, before tax.</span>
+</li>
+<li>
+<i class="bi bi-check2-circle" aria-hidden="true">
+</i>
+<span>All currency amounts are in USD.</span>
+</li>
+<li>
+<i class="bi bi-check2-circle" aria-hidden="true">
+</i>
+<span>Choose the full repayment term.</span>
+</li>
+</ol>
+<div class="aside-note">
+<i class="bi bi-info-circle" aria-hidden="true">
+</i>
+<p>Trained on fictional sample data. Model probabilities are estimates and have not been calibrated for real lending.</p>
+</div>
+<a class="text-link" href="{% url 'predictor:about' %}">Understand the model <i class="bi bi-arrow-up-right" aria-hidden="true">
+</i>
+</a>
+</div>
+</aside>
+</div>
+</div>
+{% endblock %}

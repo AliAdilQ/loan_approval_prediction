@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+{% block title %}Behind the prediction · LoanPredict AI{% endblock %}
+{% block content %}
+<div class="container page-shell">
+<div class="breadcrumb-line">
+<a href="{% url 'predictor:home' %}">Home</a>
+<i class="bi bi-chevron-right" aria-hidden="true">
+</i>
+<span>About the project</span>
+</div>
+<div class="about-hero">
+<div class="eyebrow">BEHIND THE PREDICTION</div>
+<h1>Where data meets<br>
+<span class="serif-accent">thoughtful design.</span>
+</h1>
+<p>Loan Approval Prediction is a machine-learning powered web application developed to demonstrate the integration of predictive analytics with a modern Django web application.</p>
+<a class="btn btn-dark-green" href="https://github.com/AliAdilQ/loan_approval_prediction" target="_blank" rel="noopener noreferrer">Explore on GitHub <i class="bi bi-arrow-up-right" aria-hidden="true">
+</i>
+</a>
+</div>
+<div class="row g-4 about-grid">
+<div class="col-lg-7">
+<article class="content-card">
+<div class="eyebrow">THE WORKFLOW</div>
+<h2>A complete path from data to decision.</h2>
+<ol class="workflow-list">
+<li>
+<span>01</span>
+<div>
+<h3>Sample data &amp; preprocessing</h3>
+<p>800 reproducible, fictional applications. Missing values are imputed; numeric features are scaled and categories are one-hot encoded inside one fitted pipeline.</p>
+</div>
+</li>
+<li>
+<span>02</span>
+<div>
+<h3>Machine learning</h3>
+<p>Logistic Regression, Random Forest, and Decision Tree are compared using five-fold cross-validation. The selected model is evaluated on a separate 20% test set.</p>
+</div>
+</li>
+<li>
+<span>03</span>
+<div>
+<h3>Django integration</h3>
+<p>Validated form data reaches a dedicated inference service. The trained model returns a class and its estimated probability.</p>
+</div>
+</li>
+<li>
+<span>04</span>
+<div>
+<h3>Application history &amp; Django Admin</h3>
+<p>SQLite stores every successful prediction. Staff can search, filter, edit, and manage applications using Django Admin and the application dashboard.</p>
+</div>
+</li>
+</ol>
+</article>
+</div>
+<div class="col-lg-5">
+<article class="model-card">
+<i class="bi bi-cpu" aria-hidden="true">
+</i>
+<div class="eyebrow">MEASURED, NOT ASSUMED</div>{% if metadata %}<h2>{{ metadata.model_name }}</h2>
+<div class="model-accuracy">{{ accuracy }}<small>%</small>
+</div>
+<p>Accuracy on {{ metadata.test_records }} held-out synthetic applications.</p>
+<div class="model-meta">
+<span>Training samples <b>{{ metadata.training_records }}</b>
+</span>
+<span>Selection criterion <b>Cross-validation F1</b>
+</span>
+<span>Positive class <b>Approved</b>
+</span>
+</div>{% else %}<h2>Model report unavailable</h2>
+<p>The administrator can generate it with the training script.</p>{% endif %}</article>
+<article class="content-card author-card">
+<div class="eyebrow">DESIGNED &amp; DEVELOPED BY</div>
+<div class="author-row">
+<span class="avatar">AA</span>
+<div>
+<h3>Ali Adil</h3>
+<a href="https://github.com/AliAdilQ" target="_blank" rel="noopener noreferrer">@AliAdilQ <i class="bi bi-arrow-up-right" aria-hidden="true">
+</i>
+</a>
+</div>
+</div>
+<p>Repository: <a href="https://github.com/AliAdilQ/loan_approval_prediction">loan_approval_prediction</a>
+</p>
+</article>
+</div>
+</div>
+<div class="responsibility-note">
+<i class="bi bi-info-circle" aria-hidden="true">
+</i>
+<div>
+<h3>Built for learning. Use with perspective.</h3>
+<p>This dataset is generated, not sourced from a financial institution. Synthetic accuracy does not establish real-world reliability or fairness. Features include sensitive demographic information; this model has not undergone a fairness audit. Probabilities are uncalibrated. Do not use it for real lending decisions.</p>
+</div>
+</div>
+</div>
+{% endblock %}
